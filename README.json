@@ -1,0 +1,705 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "资源网站"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "教程"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "React Native"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Native 学习笔记",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2020-07-27T04:52:57Z",
+            "owner": "crazycodeboy",
+            "repo": "RNStudyNotes",
+            "stars": 4059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native 每日一学(Learn a little every day)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2020-07-27T04:52:57Z",
+            "owner": "crazycodeboy",
+            "repo": "RNStudyNotes",
+            "stars": 4059
+          }
+        }
+      ],
+      "title": "系列教程"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Native官方Demo",
+          "description": "：React Native官方Demo，汇集了各种组件，API的使用Examples。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:45:59Z",
+            "owner": "react",
+            "repo": "react-native",
+            "stars": 126339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook F8 App",
+          "description": "：基于React Native 的2016 F8大会APP。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-07-11T07:23:07Z",
+            "owner": "fbsamples",
+            "repo": "f8app",
+            "stars": 13892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-nw-react-calculator",
+          "description": "：基于React Native的计算器，iOS/Android、Web、桌面多端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-03T16:47:54Z",
+            "owner": "benoitvallon",
+            "repo": "react-native-nw-react-calculator",
+            "stars": 5210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HackerNews-React-Native",
+          "description": "：Hacker 新闻客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-17T06:10:55Z",
+            "owner": "iSimar",
+            "repo": "HackerNews-React-Native",
+            "stars": 3712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZhiHuDaily-React-Native",
+          "description": "：知乎日报Android版。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-19T05:26:28Z",
+            "owner": "race604",
+            "repo": "ZhiHuDaily-React-Native",
+            "stars": 3654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reading",
+          "description": "：iReading App。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T19:46:32Z",
+            "owner": "attentiveness",
+            "repo": "reading",
+            "stars": 3410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHubPopular",
+          "description": "：基于React Native的查看、阅读、收藏GitHub上 最受欢迎的开源项目的APP，不仅如此，它还是一款GitHub Trending的客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-08T07:23:05Z",
+            "owner": "crazycodeboy",
+            "repo": "GitHubPopular",
+            "stars": 2949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-nba-app",
+          "description": "：This is why we play。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2019-10-20T03:53:38Z",
+            "owner": "wwayne",
+            "repo": "react-native-nba-app",
+            "stars": 2213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinanceReactNative",
+          "description": "：Finance - 股票报价app。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T19:34:52Z",
+            "owner": "7kfpun",
+            "repo": "FinanceReactNative",
+            "stars": 2075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-dribbble-app",
+          "description": "：基于React Native的Dribbble客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-13T02:00:42Z",
+            "owner": "catalinmiron",
+            "repo": "react-native-dribbble-app",
+            "stars": 2061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noder-react-native",
+          "description": "：Noder-cnodejs客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-02-12T07:34:45Z",
+            "owner": "osdio",
+            "repo": "noder-react-native",
+            "stars": 1955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-gitfeed",
+          "description": "：一款基于React Native的GitHub客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-13T02:28:16Z",
+            "owner": "xiekw2010",
+            "repo": "react-native-gitfeed",
+            "stars": 1704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React-Native-Gank",
+          "description": "：Gank.io客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-31T16:15:54Z",
+            "owner": "poberwong",
+            "repo": "react-native-gank",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leanote-ios-rnLeanote",
+          "description": "：Leanote for iOS(云笔记)。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-27T20:14:48Z",
+            "owner": "ele828",
+            "repo": "leanote-ios-rn",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shopping-react-native",
+          "description": "：购物app-界面。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-06-07T23:02:19Z",
+            "owner": "bigsui",
+            "repo": "shopping-react-native",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "开源APP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "组件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-native-router-flux",
+          "description": "：一款很火的导航组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-28T10:35:04Z",
+            "owner": "aksonov",
+            "repo": "react-native-router-flux",
+            "stars": 8916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-drawer",
+          "description": "：另一款抽屉组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-09T01:31:28Z",
+            "owner": "root-two",
+            "repo": "react-native-drawer",
+            "stars": 2527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-tab-navigator",
+          "description": "：一款兼容Android、iOS的TabBar组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-30T10:48:16Z",
+            "owner": "ptomasroos",
+            "repo": "react-native-tab-navigator",
+            "stars": 2384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-navbar",
+          "description": "：一款用于React Native上的可定制的导航条。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-16T16:54:29Z",
+            "owner": "Kureev",
+            "repo": "react-native-navbar",
+            "stars": 1884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-drawer-layout",
+          "description": "：抽屉组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-01-31T19:19:34Z",
+            "owner": "iodine",
+            "repo": "react-native-drawer-layout",
+            "stars": 284
+          }
+        }
+      ],
+      "title": "Navigation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-native-swiper",
+          "description": "：一款轮番滑动的组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-01T13:04:07Z",
+            "owner": "leecade",
+            "repo": "react-native-swiper",
+            "stars": 10488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-looped-carousel",
+          "description": "：滚动轮播组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-29T16:35:16Z",
+            "owner": "phil-r",
+            "repo": "react-native-looped-carousel",
+            "stars": 1484
+          }
+        }
+      ],
+      "title": "ViewPager"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-native-swipe-list-view",
+          "description": "：滑动删除组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-14T15:44:56Z",
+            "owner": "jemise111",
+            "repo": "react-native-swipe-list-view",
+            "stars": 2807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-swipeout",
+          "description": "：iOS样式的划动删除组件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-09-16T16:57:25Z",
+            "owner": "dancormier",
+            "repo": "react-native-swipeout",
+            "stars": 2609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-refreshable-listview",
+          "description": "：下拉刷新组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-18T07:58:25Z",
+            "owner": "jsdf",
+            "repo": "react-native-refreshable-listview",
+            "stars": 1375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-sortable-listview",
+          "description": "：拖拽排序组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-07T03:40:57Z",
+            "owner": "deanmcpherson",
+            "repo": "react-native-sortable-listview",
+            "stars": 911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-SortableList",
+          "description": "：拖拽排序组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-10-03T22:29:07Z",
+            "owner": "hayeah",
+            "repo": "react-native-SortableList",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-draggablelist",
+          "description": "：拖排序组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-06-11T12:31:43Z",
+            "owner": "hzzcc",
+            "repo": "react-native-draggablelist",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "ListView&ScrollView"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-native-easy-toast",
+          "description": "：一款用于React Native上消息提示弹框组件，使用方便，支持定义Toast，支持iOS,Android。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-25T07:56:51Z",
+            "owner": "crazycodeboy",
+            "repo": "react-native-easy-toast",
+            "stars": 1146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-popover",
+          "description": "：一款类似Android popupwindow的弹出框组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-23T22:42:52Z",
+            "owner": "jeanregisser",
+            "repo": "react-native-popover",
+            "stars": 671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-modal",
+          "description": "：模态框，作者已经将该组件添加到React Native，所以开发者可以直接使用Modal;",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-03-29T18:02:09Z",
+            "owner": "brentvatne",
+            "repo": "stargrave-0",
+            "stars": 388
+          }
+        }
+      ],
+      "title": "弹框"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-native-material-design",
+          "description": "：一款用于React Native上的材料设计UI组件库。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-12-27T10:31:49Z",
+            "owner": "invertase",
+            "repo": "react-native-material-design",
+            "stars": 3125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mrn",
+          "description": "：Material Design组件库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-28T08:31:20Z",
+            "owner": "binggg",
+            "repo": "mrn",
+            "stars": 1720
+          }
+        }
+      ],
+      "title": "Material Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NativeBase",
+          "description": "：一款融合了ES6用于在React Native上创建创建高质量的Android&iOS APP的框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-31T17:46:33Z",
+            "owner": "GeekyAnts",
+            "repo": "NativeBase",
+            "stars": 20386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tcomb-form-native",
+          "description": "：强大的表单处理控件，支持 JSON 模式，可插拔的外观和感觉。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-03T15:45:02Z",
+            "owner": "gcanti",
+            "repo": "tcomb-form-native",
+            "stars": 3126
+          }
+        }
+      ],
+      "title": "框架"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RNShareSDK",
+          "description": "：一款基于原生平台ShareSDK的ReactNative插件,方便RN开发者集成各大社交平台的分享和授权功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2016-12-06T08:14:06Z",
+            "owner": "Code4Bull",
+            "repo": "RNShareSDK",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-launch-image",
+          "description": "：用在React Native上手动关闭iOS启动界面（Launch Screen）的工具。详细说明",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2017-10-19T01:13:54Z",
+            "owner": "reactnativecn",
+            "repo": "react-native-launch-image",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "库"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Redux",
+          "description": "：用于JavaScript apps上的一款可预见的状态管理框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T00:52:12Z",
+            "owner": "reduxjs",
+            "repo": "redux",
+            "stars": 61517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redux-react-native-i18n",
+          "description": "An i18n solution with plural forms support for React Native apps on Redux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-29T13:40:40Z",
+            "owner": "derzunov",
+            "repo": "redux-react-native-i18n",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "其他"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-native-web",
+          "description": "：使用React Native组建Web应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-16T15:10:21Z",
+            "owner": "necolas",
+            "repo": "react-native-web",
+            "stars": 22139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-macos",
+          "description": "：使用React Native和Cocoa组建macOS桌面应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-13T08:45:11Z",
+            "owner": "ptmt",
+            "repo": "react-native-macos",
+            "stars": 11195
+          }
+        }
+      ],
+      "title": "一次学习，随处可写"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:56.143Z",
+    "original_repository": "crazycodeboy/react-native-awesome",
+    "original_repository_sha": "12190d432cf5bc15ea7d32b81f6f63977eea6395",
+    "enhanced_repository": "enhansome/react-native-enhansome",
+    "enhanced_repository_description": null,
+    "title": "Awesome React Native 学习资源精选仓库(汇聚知识，分享精华) with stars"
+  }
+}
