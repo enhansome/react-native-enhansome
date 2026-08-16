@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T14:57:00Z",
+            "last_commit": "2026-08-15T13:15:47Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126346
+            "stars": 126359
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-02-01T13:04:07Z",
             "owner": "leecade",
             "repo": "react-native-swiper",
-            "stars": 10487
+            "stars": 10486
           }
         },
         {
@@ -566,7 +566,7 @@
             "last_commit": "2026-01-31T17:46:33Z",
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20385
+            "stars": 20386
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-08-02T00:52:12Z",
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61513
+            "stars": 61511
           }
         },
         {
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:44:45.227Z",
+    "last_updated": "2026-08-16T02:52:32.852Z",
     "original_repository": "crazycodeboy/react-native-awesome",
     "original_repository_sha": "12190d432cf5bc15ea7d32b81f6f63977eea6395",
     "enhanced_repository": "enhansome/react-native-enhansome",
