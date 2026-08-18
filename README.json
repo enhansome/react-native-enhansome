@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T23:51:19Z",
+            "last_commit": "2026-08-18T01:01:02Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126359
+            "stars": 126354
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2021-10-03T16:47:54Z",
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5207
+            "stars": 5206
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2022-03-17T06:10:55Z",
             "owner": "iSimar",
             "repo": "HackerNews-React-Native",
-            "stars": 3710
+            "stars": 3708
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2022-12-06T19:46:32Z",
             "owner": "attentiveness",
             "repo": "reading",
-            "stars": 3409
+            "stars": 3408
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2022-12-06T19:34:52Z",
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2075
+            "stars": 2074
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2023-10-13T02:00:42Z",
             "owner": "catalinmiron",
             "repo": "react-native-dribbble-app",
-            "stars": 2061
+            "stars": 2060
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2019-05-28T08:31:20Z",
             "owner": "binggg",
             "repo": "mrn",
-            "stars": 1720
+            "stars": 1719
           }
         }
       ],
@@ -566,7 +566,7 @@
             "last_commit": "2026-01-31T17:46:33Z",
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20386
+            "stars": 20387
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-08-02T00:52:12Z",
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61511
+            "stars": 61510
           }
         },
         {
@@ -673,7 +673,7 @@
             "last_commit": "2025-10-16T15:10:21Z",
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22140
+            "stars": 22142
           }
         },
         {
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:52:55.984Z",
+    "last_updated": "2026-08-18T02:48:19.560Z",
     "original_repository": "crazycodeboy/react-native-awesome",
     "original_repository_sha": "12190d432cf5bc15ea7d32b81f6f63977eea6395",
     "enhanced_repository": "enhansome/react-native-enhansome",
