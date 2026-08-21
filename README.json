@@ -55,10 +55,10 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-19T19:43:29Z",
+            "last_commit": "2026-08-20T22:03:07Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126367
+            "stars": 126370
           }
         },
         {
@@ -73,7 +73,7 @@
             "last_commit": "2023-07-11T07:23:07Z",
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13891
+            "stars": 13892
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2023-09-19T05:26:28Z",
             "owner": "race604",
             "repo": "ZhiHuDaily-React-Native",
-            "stars": 3649
+            "stars": 3648
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2022-12-06T19:46:32Z",
             "owner": "attentiveness",
             "repo": "reading",
-            "stars": 3408
+            "stars": 3409
           }
         },
         {
@@ -674,7 +674,7 @@
                 "last_commit": "2026-08-20T02:41:39Z",
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61508
+                "stars": 61509
               }
             },
             {
@@ -715,7 +715,7 @@
             "last_commit": "2025-10-16T15:10:21Z",
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22142
+            "stars": 22140
           }
         },
         {
@@ -730,7 +730,7 @@
             "last_commit": "2024-02-13T08:45:11Z",
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11196
+            "stars": 11195
           }
         }
       ],
@@ -738,7 +738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:49:27.423Z",
+    "last_updated": "2026-08-21T02:55:07.489Z",
     "original_repository": "crazycodeboy/react-native-awesome",
     "original_repository_id": 66321376,
     "original_repository_sha": "12190d432cf5bc15ea7d32b81f6f63977eea6395",
