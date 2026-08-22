@@ -55,10 +55,10 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-20T22:03:07Z",
+            "last_commit": "2026-08-21T21:45:14Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126370
+            "stars": 126387
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-01-31T17:46:33Z",
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20387
+            "stars": 20386
           }
         },
         {
@@ -715,7 +715,7 @@
             "last_commit": "2025-10-16T15:10:21Z",
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22140
+            "stars": 22141
           }
         },
         {
@@ -738,7 +738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:55:07.489Z",
+    "last_updated": "2026-08-22T02:47:02.636Z",
     "original_repository": "crazycodeboy/react-native-awesome",
     "original_repository_id": 66321376,
     "original_repository_sha": "12190d432cf5bc15ea7d32b81f6f63977eea6395",
