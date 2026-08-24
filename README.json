@@ -58,7 +58,7 @@
             "last_commit": "2026-08-22T21:10:22Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126395
+            "stars": 126401
           }
         },
         {
@@ -73,7 +73,7 @@
             "last_commit": "2023-07-11T07:23:07Z",
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13892
+            "stars": 13891
           }
         },
         {
@@ -674,7 +674,7 @@
                 "last_commit": "2026-08-20T02:41:39Z",
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61509
+                "stars": 61508
               }
             },
             {
@@ -738,7 +738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:54:44.646Z",
+    "last_updated": "2026-08-24T02:55:58.689Z",
     "original_repository": "crazycodeboy/react-native-awesome",
     "original_repository_id": 66321376,
     "original_repository_sha": "12190d432cf5bc15ea7d32b81f6f63977eea6395",
