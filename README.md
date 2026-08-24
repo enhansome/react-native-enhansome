@@ -142,7 +142,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 > 它山之石可以攻玉。
 
-* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,401 | 🐛 1,082 | 🌐 C++ | 📅 2026-08-22：React Native官方Demo，汇集了各种组件，API的使用Examples。
+* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,405 | 🐛 1,083 | 🌐 C++ | 📅 2026-08-24：React Native官方Demo，汇集了各种组件，API的使用Examples。
 
 * [Facebook F8 App ](https://github.com/fbsamples/f8app) ⚠️ Archived：基于React Native 的2016 F8大会APP。
 
@@ -178,7 +178,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### UI
 
-* [react-native-vector-icons ★2281](https://github.com/oblador/react-native-vector-icons) ⭐ 17,908 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-20：用于 React Native的可定制的图标资源库，支持 NavBar/TabBar, image source 以及样式。
+* [react-native-vector-icons ★2281](https://github.com/oblador/react-native-vector-icons) ⭐ 17,909 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-20：用于 React Native的可定制的图标资源库，支持 NavBar/TabBar, image source 以及样式。
 
 ### Navigation
 
@@ -219,11 +219,11 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### TabLayout
 
-* [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view) ⭐ 6,946 | 🐛 165 | 🌐 JavaScript | 📅 2024-06-23：一款用于React Native上TabLayout组件。
+* [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view) ⭐ 6,947 | 🐛 165 | 🌐 JavaScript | 📅 2024-06-23：一款用于React Native上TabLayout组件。
 
 ## 框架
 
-* [NativeBase](https://github.com/GeekyAnts/NativeBase) ⭐ 20,386 | 🐛 376 | 🌐 TypeScript | 📅 2026-01-31：一款融合了ES6用于在React Native上创建创建高质量的Android\&iOS APP的框架。
+* [NativeBase](https://github.com/GeekyAnts/NativeBase) ⭐ 20,385 | 🐛 376 | 🌐 TypeScript | 📅 2026-01-31：一款融合了ES6用于在React Native上创建创建高质量的Android\&iOS APP的框架。
 * [tcomb-form-native](https://github.com/gcanti/tcomb-form-native) ⭐ 3,126 | 🐛 125 | 🌐 JavaScript | 📅 2024-05-03：强大的表单处理控件，支持 JSON 模式，可插拔的外观和感觉。
 
 ## 库
@@ -257,7 +257,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ## 一次学习，随处可写
 
-* [react-native-web](https://github.com/necolas/react-native-web) ⭐ 22,141 | 🐛 159 | 🌐 JavaScript | 📅 2025-10-16：使用React Native组建Web应用。
+* [react-native-web](https://github.com/necolas/react-native-web) ⭐ 22,142 | 🐛 159 | 🌐 JavaScript | 📅 2025-10-16：使用React Native组建Web应用。
 * [react-native-macos](https://github.com/ptmt/react-native-macos) ⭐ 11,195 | 🐛 76 | 🌐 JavaScript | 📅 2024-02-13：使用React Native和Cocoa组建macOS桌面应用。
 
 ## 资源下载
