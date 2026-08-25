@@ -131,8 +131,8 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### 系列教程
 
-* [React Native 学习笔记](https://github.com/crazycodeboy/RNStudyNotes) ⭐ 4,059 | 🐛 13 | 🌐 Objective-C | 📅 2020-07-27
-* [React Native 每日一学(Learn a little every day)](https://github.com/crazycodeboy/RNStudyNotes/tree/master/React%20Native%20%E6%AF%8F%E6%97%A5%E4%B8%80%E5%AD%A6) ⭐ 4,059 | 🐛 13 | 🌐 Objective-C | 📅 2020-07-27
+* [React Native 学习笔记](https://github.com/crazycodeboy/RNStudyNotes) ⭐ 4,058 | 🐛 13 | 🌐 Objective-C | 📅 2020-07-27
+* [React Native 每日一学(Learn a little every day)](https://github.com/crazycodeboy/RNStudyNotes/tree/master/React%20Native%20%E6%AF%8F%E6%97%A5%E4%B8%80%E5%AD%A6) ⭐ 4,058 | 🐛 13 | 🌐 Objective-C | 📅 2020-07-27
 * [React Native项目实战视频教程](http://coding.imooc.com/class/304.html)![ hot](http://www.devio.org/img/ico/ico_hot.gif)
 * [React Native免费自学视频](http://www.imooc.com/learn/808)
 * [React Native高手进阶-专栏](http://blog.csdn.net/column/details/react-native-advance.html)
@@ -142,7 +142,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 > 它山之石可以攻玉。
 
-* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,405 | 🐛 1,083 | 🌐 C++ | 📅 2026-08-24：React Native官方Demo，汇集了各种组件，API的使用Examples。
+* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,406 | 🐛 1,089 | 🌐 C++ | 📅 2026-08-24：React Native官方Demo，汇集了各种组件，API的使用Examples。
 
 * [Facebook F8 App ](https://github.com/fbsamples/f8app) ⚠️ Archived：基于React Native 的2016 F8大会APP。
 
@@ -219,7 +219,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### TabLayout
 
-* [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view) ⭐ 6,947 | 🐛 165 | 🌐 JavaScript | 📅 2024-06-23：一款用于React Native上TabLayout组件。
+* [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view) ⭐ 6,946 | 🐛 165 | 🌐 JavaScript | 📅 2024-06-23：一款用于React Native上TabLayout组件。
 
 ## 框架
 
@@ -240,7 +240,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### 其他
 
-* [Redux](https://github.com/reactjs/redux/) ⭐ 61,508 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-20：用于JavaScript apps上的一款可预见的状态管理框架。
+* [Redux](https://github.com/reactjs/redux/) ⭐ 61,509 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-20：用于JavaScript apps上的一款可预见的状态管理框架。
 * [redux-react-native-i18n](https://github.com/derzunov/redux-react-native-i18n) ⭐ 48 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-29 An i18n solution with plural forms support for React Native apps on Redux
 * [CodePush](https://microsoft.github.io/code-push/)：CodePush 是微软提供的一套用于热更新 React Native 和 Cordova 应用的服务。
 
@@ -268,4 +268,4 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

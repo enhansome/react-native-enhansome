@@ -17,7 +17,7 @@
                 "last_commit": "2020-07-27T04:52:57Z",
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4059
+                "stars": 4058
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2020-07-27T04:52:57Z",
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4059
+                "stars": 4058
               }
             }
           ],
@@ -55,10 +55,10 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-24T14:01:36Z",
+            "last_commit": "2026-08-24T23:45:22Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126405
+            "stars": 126406
           }
         },
         {
@@ -640,7 +640,7 @@
                 "last_commit": "2024-06-23T08:18:54Z",
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6947
+                "stars": 6946
               }
             }
           ],
@@ -740,7 +740,7 @@
                 "last_commit": "2026-08-20T02:41:39Z",
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61508
+                "stars": 61509
               }
             },
             {
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:24.080Z",
+    "last_updated": "2026-08-25T02:51:28.969Z",
     "original_repository": "crazycodeboy/react-native-awesome",
     "original_repository_id": 66321376,
     "original_repository_sha": "12190d432cf5bc15ea7d32b81f6f63977eea6395",
