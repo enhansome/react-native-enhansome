@@ -58,7 +58,7 @@
             "last_commit": "2026-08-24T23:45:22Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126406
+            "stars": 126408
           }
         },
         {
@@ -781,7 +781,7 @@
             "last_commit": "2025-10-16T15:10:21Z",
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22142
+            "stars": 22143
           }
         },
         {
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:51:28.969Z",
+    "last_updated": "2026-08-25T06:02:27.772Z",
     "original_repository": "crazycodeboy/react-native-awesome",
     "original_repository_id": 66321376,
     "original_repository_sha": "12190d432cf5bc15ea7d32b81f6f63977eea6395",
