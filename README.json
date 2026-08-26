@@ -55,10 +55,10 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-24T23:45:22Z",
+            "last_commit": "2026-08-25T18:05:48Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126408
+            "stars": 126412
           }
         },
         {
@@ -73,7 +73,7 @@
             "last_commit": "2023-07-11T07:23:07Z",
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13891
+            "stars": 13890
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2022-12-06T19:34:52Z",
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2074
+            "stars": 2073
           }
         },
         {
@@ -291,7 +291,7 @@
                 "last_commit": "2026-08-20T18:28:18Z",
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17909
+                "stars": 17908
               }
             }
           ],
@@ -395,7 +395,7 @@
                 "last_commit": "2026-02-01T13:04:07Z",
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10485
+                "stars": 10484
               }
             },
             {
@@ -551,7 +551,7 @@
                 "last_commit": "2024-04-25T07:56:51Z",
                 "owner": "crazycodeboy",
                 "repo": "react-native-easy-toast",
-                "stars": 1146
+                "stars": 1145
               }
             },
             {
@@ -740,7 +740,7 @@
                 "last_commit": "2026-08-20T02:41:39Z",
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61509
+                "stars": 61507
               }
             },
             {
@@ -796,7 +796,7 @@
             "last_commit": "2024-02-13T08:45:11Z",
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11195
+            "stars": 11194
           }
         }
       ],
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:02:27.772Z",
+    "last_updated": "2026-08-26T02:57:06.699Z",
     "original_repository": "crazycodeboy/react-native-awesome",
     "original_repository_id": 66321376,
     "original_repository_sha": "12190d432cf5bc15ea7d32b81f6f63977eea6395",
