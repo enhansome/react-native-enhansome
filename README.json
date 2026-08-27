@@ -55,10 +55,10 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-25T18:05:48Z",
+            "last_commit": "2026-08-27T12:07:15Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126412
+            "stars": 126426
           }
         },
         {
@@ -291,7 +291,7 @@
                 "last_commit": "2026-08-20T18:28:18Z",
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17908
+                "stars": 17912
               }
             }
           ],
@@ -395,7 +395,7 @@
                 "last_commit": "2026-02-01T13:04:07Z",
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10484
+                "stars": 10485
               }
             },
             {
@@ -740,7 +740,7 @@
                 "last_commit": "2026-08-20T02:41:39Z",
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61507
+                "stars": 61509
               }
             },
             {
@@ -796,7 +796,7 @@
             "last_commit": "2024-02-13T08:45:11Z",
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11194
+            "stars": 11193
           }
         }
       ],
@@ -804,9 +804,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:57:06.699Z",
-    "original_repository": "crazycodeboy/react-native-awesome",
-    "original_repository_id": 66321376,
+    "last_updated": "2026-08-27T12:14:10.629Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 66321376,
+      "language": null,
+      "last_commit": "2019-12-06T04:03:32Z",
+      "owner": "crazycodeboy",
+      "repo": "react-native-awesome",
+      "stars": 1818
+    },
     "original_repository_sha": "12190d432cf5bc15ea7d32b81f6f63977eea6395",
     "enhanced_repository": "enhansome/react-native-enhansome",
     "enhanced_repository_description": null,
