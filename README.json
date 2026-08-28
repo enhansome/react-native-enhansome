@@ -18,7 +18,8 @@
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
                 "stars": 4058
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
                 "stars": 4058
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             }
           ],
           "description": null,
@@ -55,11 +57,12 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-27T12:07:15Z",
+            "last_commit": "2026-08-28T11:42:13Z",
             "owner": "react",
             "repo": "react-native",
-            "stars": 126426
-          }
+            "stars": 126435
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "fbsamples",
             "repo": "f8app",
             "stars": 13890
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -89,7 +93,8 @@
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
             "stars": 5206
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -104,7 +109,8 @@
             "owner": "iSimar",
             "repo": "HackerNews-React-Native",
             "stars": 3708
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -119,7 +125,8 @@
             "owner": "race604",
             "repo": "ZhiHuDaily-React-Native",
             "stars": 3648
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -134,7 +141,8 @@
             "owner": "attentiveness",
             "repo": "reading",
             "stars": 3409
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -149,7 +157,8 @@
             "owner": "crazycodeboy",
             "repo": "GitHubPopular",
             "stars": 2946
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -164,7 +173,8 @@
             "owner": "wwayne",
             "repo": "react-native-nba-app",
             "stars": 2213
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -179,7 +189,8 @@
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
             "stars": 2073
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -194,7 +205,8 @@
             "owner": "catalinmiron",
             "repo": "react-native-dribbble-app",
             "stars": 2060
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -209,7 +221,8 @@
             "owner": "osdio",
             "repo": "noder-react-native",
             "stars": 1955
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -224,7 +237,8 @@
             "owner": "xiekw2010",
             "repo": "react-native-gitfeed",
             "stars": 1704
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -239,7 +253,8 @@
             "owner": "poberwong",
             "repo": "react-native-gank",
             "stars": 680
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -254,7 +269,8 @@
             "owner": "ele828",
             "repo": "leanote-ios-rn",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -269,7 +285,8 @@
             "owner": "bigsui",
             "repo": "shopping-react-native",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         }
       ],
       "title": "开源APP"
@@ -291,8 +308,9 @@
                 "last_commit": "2026-08-20T18:28:18Z",
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17912
-              }
+                "stars": 17913
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             }
           ],
           "description": null,
@@ -313,8 +331,9 @@
                 "last_commit": "2023-06-28T10:35:04Z",
                 "owner": "aksonov",
                 "repo": "react-native-router-flux",
-                "stars": 8916
-              }
+                "stars": 8915
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -329,7 +348,8 @@
                 "owner": "root-two",
                 "repo": "react-native-drawer",
                 "stars": 2527
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -344,7 +364,8 @@
                 "owner": "ptomasroos",
                 "repo": "react-native-tab-navigator",
                 "stars": 2384
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -359,7 +380,8 @@
                 "owner": "Kureev",
                 "repo": "react-native-navbar",
                 "stars": 1884
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -374,7 +396,8 @@
                 "owner": "iodine",
                 "repo": "react-native-drawer-layout",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             }
           ],
           "description": null,
@@ -396,7 +419,8 @@
                 "owner": "leecade",
                 "repo": "react-native-swiper",
                 "stars": 10485
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -411,7 +435,8 @@
                 "owner": "phil-r",
                 "repo": "react-native-looped-carousel",
                 "stars": 1484
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             }
           ],
           "description": null,
@@ -433,7 +458,8 @@
                 "owner": "jemise111",
                 "repo": "react-native-swipe-list-view",
                 "stars": 2807
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -448,7 +474,8 @@
                 "owner": "dancormier",
                 "repo": "react-native-swipeout",
                 "stars": 2609
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -463,7 +490,8 @@
                 "owner": "jsdf",
                 "repo": "react-native-refreshable-listview",
                 "stars": 1375
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -478,7 +506,8 @@
                 "owner": "deanmcpherson",
                 "repo": "react-native-sortable-listview",
                 "stars": 911
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -493,7 +522,8 @@
                 "owner": "hayeah",
                 "repo": "react-native-SortableList",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -508,7 +538,8 @@
                 "owner": "hzzcc",
                 "repo": "react-native-draggablelist",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             }
           ],
           "description": null,
@@ -530,7 +561,8 @@
                 "owner": "jsdf",
                 "repo": "react-native-htmlview",
                 "stars": 2748
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             }
           ],
           "description": null,
@@ -552,7 +584,8 @@
                 "owner": "crazycodeboy",
                 "repo": "react-native-easy-toast",
                 "stars": 1145
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -567,7 +600,8 @@
                 "owner": "jeanregisser",
                 "repo": "react-native-popover",
                 "stars": 671
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -582,7 +616,8 @@
                 "owner": "brentvatne",
                 "repo": "stargrave-0",
                 "stars": 388
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             }
           ],
           "description": null,
@@ -604,7 +639,8 @@
                 "owner": "invertase",
                 "repo": "react-native-material-design",
                 "stars": 3125
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -619,7 +655,8 @@
                 "owner": "binggg",
                 "repo": "mrn",
                 "stars": 1719
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             }
           ],
           "description": null,
@@ -641,7 +678,8 @@
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
                 "stars": 6946
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             }
           ],
           "description": null,
@@ -667,7 +705,8 @@
             "owner": "GeekyAnts",
             "repo": "NativeBase",
             "stars": 20385
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -682,7 +721,8 @@
             "owner": "gcanti",
             "repo": "tcomb-form-native",
             "stars": 3126
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         }
       ],
       "title": "框架"
@@ -703,7 +743,8 @@
             "owner": "Code4Bull",
             "repo": "RNShareSDK",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -718,7 +759,8 @@
             "owner": "reactnativecn",
             "repo": "react-native-launch-image",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         }
       ],
       "title": "库"
@@ -740,8 +782,9 @@
                 "last_commit": "2026-08-20T02:41:39Z",
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61509
-              }
+                "stars": 61508
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             },
             {
               "node_type": "item",
@@ -756,7 +799,8 @@
                 "owner": "derzunov",
                 "repo": "redux-react-native-i18n",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T13:35:01.284Z"
             }
           ],
           "description": null,
@@ -781,8 +825,9 @@
             "last_commit": "2025-10-16T15:10:21Z",
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22143
-          }
+            "stars": 22142
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         },
         {
           "node_type": "item",
@@ -797,14 +842,15 @@
             "owner": "ptmt",
             "repo": "react-native-macos",
             "stars": 11193
-          }
+          },
+          "first_seen": "2026-08-28T13:35:01.284Z"
         }
       ],
       "title": "一次学习，随处可写"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:14:10.629Z",
+    "last_updated": "2026-08-28T13:35:01.284Z",
     "original_repository_info": {
       "archived": false,
       "id": 66321376,
@@ -812,7 +858,7 @@
       "last_commit": "2019-12-06T04:03:32Z",
       "owner": "crazycodeboy",
       "repo": "react-native-awesome",
-      "stars": 1818
+      "stars": 1820
     },
     "original_repository_sha": "12190d432cf5bc15ea7d32b81f6f63977eea6395",
     "enhanced_repository": "enhansome/react-native-enhansome",
