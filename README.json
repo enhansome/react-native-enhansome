@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native 研究与实践",
+                "homepage": "http://www.devio.org/tags/#React Native",
                 "id": 63936619,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2020-07-27T04:52:57Z",
+                "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4058
+                "stars": 4057,
+                "topics": [
+                  "react-native",
+                  "react-native-doc",
+                  "react-native-lesson",
+                  "react-native-resources",
+                  "react-native-study",
+                  "react-native-tutorial"
+                ]
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -28,12 +40,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native 研究与实践",
+                "homepage": "http://www.devio.org/tags/#React Native",
                 "id": 63936619,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2020-07-27T04:52:57Z",
+                "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4058
+                "stars": 4057,
+                "topics": [
+                  "react-native",
+                  "react-native-doc",
+                  "react-native-lesson",
+                  "react-native-resources",
+                  "react-native-study",
+                  "react-native-tutorial"
+                ]
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             }
@@ -55,12 +79,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for building native applications using React",
+            "homepage": "https://reactnative.dev",
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-28T11:42:13Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T18:53:52Z",
+            "open_issues": 1102,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126435
+            "stars": 126447,
+            "topics": [
+              "android",
+              "app-framework",
+              "cross-platform",
+              "ios",
+              "mobile",
+              "mobile-development",
+              "react",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -71,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Source code of the official F8 app of 2017, powered by React Native and other Facebook open source projects.",
+            "homepage": "http://makeitopen.com",
             "id": 53619303,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-11T07:23:07Z",
+            "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13890
+            "stars": 13890,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -87,12 +130,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mobile, desktop and website Apps with the same code",
+            "homepage": null,
             "id": 34920819,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-03T16:47:54Z",
+            "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5206
+            "stars": 5206,
+            "topics": [
+              "android-app",
+              "architecture",
+              "desktop",
+              "electron",
+              "flux",
+              "ios-app",
+              "react",
+              "react-native",
+              "universal-app"
+            ]
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -103,12 +161,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hacker News iOS and Android App - Made with React Native.",
+            "homepage": "http://i.imgur.com/3ijCDTL.png",
             "id": 32958241,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-17T06:10:55Z",
+            "open_issues": 12,
             "owner": "iSimar",
             "repo": "HackerNews-React-Native",
-            "stars": 3708
+            "stars": 3707,
+            "topics": [
+              "android",
+              "hacker-news",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -119,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).",
+            "homepage": null,
             "id": 43000411,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-19T05:26:28Z",
+            "open_issues": 32,
             "owner": "race604",
             "repo": "ZhiHuDaily-React-Native",
-            "stars": 3648
+            "stars": 3648,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -135,12 +207,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iReading App  Write In React-Native",
+            "homepage": "https://richardcao.me/2016/07/05/Talk-About-Reading/",
             "id": 47775543,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-06T19:46:32Z",
+            "open_issues": 15,
             "owner": "attentiveness",
             "repo": "reading",
-            "stars": 3409
+            "stars": 3409,
+            "topics": [
+              "android",
+              "ios",
+              "react-native",
+              "react-navigation",
+              "redux",
+              "redux-saga"
+            ]
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -151,12 +235,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "这是一个用来查看GitHub最受欢迎与最热项目的App,它基于React Native支持Android和iOS双平台。#适配RN最新版在这里☞#",
+            "homepage": "http://coding.imooc.com/class/304.html",
             "id": 63615358,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-08-08T07:23:05Z",
+            "open_issues": 67,
             "owner": "crazycodeboy",
             "repo": "GitHubPopular",
-            "stars": 2946
+            "stars": 2946,
+            "topics": [
+              "github-app",
+              "github-client",
+              "github-trend",
+              "github-trending",
+              "react-native",
+              "react-native-app"
+            ]
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -167,12 +263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is why we play",
+            "homepage": null,
             "id": 47007090,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2019-10-20T03:53:38Z",
+            "open_issues": 8,
             "owner": "wwayne",
             "repo": "react-native-nba-app",
-            "stars": 2213
+            "stars": 2213,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -183,12 +284,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Deprecated] iOS's Stocks App clone written in React Native for demo purpose (available both iOS and Android).",
+            "homepage": "https://play.google.com/store/apps/details?id=com.kfpun.finance",
             "id": 43899983,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-06T19:34:52Z",
+            "open_issues": 28,
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2073
+            "stars": 2073,
+            "topics": [
+              "android",
+              "ios",
+              "react-native",
+              "stock",
+              "yahoo-finance"
+            ]
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -199,12 +311,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dribbble app built with React Native",
+            "homepage": null,
             "id": 37272972,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-13T02:00:42Z",
+            "open_issues": 20,
             "owner": "catalinmiron",
             "repo": "react-native-dribbble-app",
-            "stars": 2060
+            "stars": 2060,
+            "topics": [
+              "dribbble",
+              "ios",
+              "ios-app",
+              "open-source",
+              "react",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -215,12 +339,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The mobile app of cnodejs.org written in React Native",
+            "homepage": "https://cnodejs.org/about",
             "id": 38262513,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-02-12T07:34:45Z",
+            "open_issues": 27,
             "owner": "osdio",
             "repo": "noder-react-native",
-            "stars": 1955
+            "stars": 1955,
+            "topics": [
+              "cnodejs",
+              "noder",
+              "react",
+              "react-native",
+              "redux",
+              "redux-application",
+              "redux-thunk"
+            ]
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -231,12 +368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another Github client written with react-native.",
+            "homepage": null,
             "id": 52667901,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-13T02:28:16Z",
+            "open_issues": 8,
             "owner": "xiekw2010",
             "repo": "react-native-gitfeed",
-            "stars": 1704
+            "stars": 1704,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -247,12 +389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "made for gank.io",
+            "homepage": null,
             "id": 49719068,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-07-31T16:15:54Z",
+            "open_issues": 10,
             "owner": "poberwong",
             "repo": "react-native-gank",
-            "stars": 680
+            "stars": 680,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -263,12 +410,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leanote iOS App based on React Native",
+            "homepage": "https://leanote.com/",
             "id": 34643536,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-27T20:14:48Z",
+            "open_issues": 2,
             "owner": "ele828",
             "repo": "leanote-ios-rn",
-            "stars": 222
+            "stars": 222,
+            "topics": [
+              "cloud",
+              "ios",
+              "leanote",
+              "notes",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -279,12 +437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "shopping app",
+            "homepage": null,
             "id": 44653966,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-06-07T23:02:19Z",
+            "open_issues": 13,
             "owner": "bigsui",
             "repo": "shopping-react-native",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         }
@@ -303,12 +466,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customizable Icons for React Native with support for image source and full styling.",
+                "homepage": "https://oblador.github.io/react-native-vector-icons/",
                 "id": 35685034,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T18:28:18Z",
+                "open_issues": 19,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17913
+                "stars": 17914,
+                "topics": [
+                  "icon",
+                  "icon-pack",
+                  "react-native",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             }
@@ -326,12 +499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The first declarative React Native router",
+                "homepage": null,
                 "id": 41359055,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-06-28T10:35:04Z",
+                "open_issues": 334,
                 "owner": "aksonov",
                 "repo": "react-native-router-flux",
-                "stars": 8915
+                "stars": 8916,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -342,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native Drawer",
+                "homepage": null,
                 "id": 33797700,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-09T01:31:28Z",
+                "open_issues": 182,
                 "owner": "root-two",
                 "repo": "react-native-drawer",
-                "stars": 2527
+                "stars": 2527,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -358,12 +541,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tab bar that switches between scenes, written in JS for cross-platform support",
+                "homepage": null,
                 "id": 41344712,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-09-30T10:48:16Z",
+                "open_issues": 19,
                 "owner": "ptomasroos",
                 "repo": "react-native-tab-navigator",
-                "stars": 2384
+                "stars": 2384,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -374,12 +562,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Navbar component for React Native",
+                "homepage": null,
                 "id": 33150460,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-05-16T16:54:29Z",
+                "open_issues": 64,
                 "owner": "Kureev",
                 "repo": "react-native-navbar",
-                "stars": 1884
+                "stars": 1884,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -390,12 +583,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 42702961,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-01-31T19:19:34Z",
+                "open_issues": 0,
                 "owner": "iodine",
                 "repo": "react-native-drawer-layout",
-                "stars": 284
+                "stars": 284,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             }
@@ -413,12 +611,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The best Swiper component for React Native.",
+                "homepage": null,
                 "id": 34268496,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-01T13:04:07Z",
+                "open_issues": 780,
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10485
+                "stars": 10485,
+                "topics": [
+                  "react",
+                  "react-native",
+                  "swipe"
+                ]
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -429,12 +636,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":carousel_horse: Looped carousel for React Native",
+                "homepage": null,
                 "id": 33328911,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-29T16:35:16Z",
+                "open_issues": 93,
                 "owner": "phil-r",
                 "repo": "react-native-looped-carousel",
-                "stars": 1484
+                "stars": 1484,
+                "topics": [
+                  "carousel",
+                  "react",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             }
@@ -452,12 +668,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React Native ListView component with rows that swipe open and closed",
+                "homepage": "https://www.npmjs.com/package/react-native-swipe-list-view",
                 "id": 56270304,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-14T15:44:56Z",
+                "open_issues": 7,
                 "owner": "jemise111",
                 "repo": "react-native-swipe-list-view",
-                "stars": 2807
+                "stars": 2808,
+                "topics": [
+                  "android",
+                  "ios",
+                  "javascript",
+                  "react",
+                  "react-native",
+                  "react-native-component",
+                  "swipelistview"
+                ]
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -468,12 +697,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "iOS-style swipeout buttons behind component",
+                "homepage": null,
                 "id": 36411141,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-09-16T16:57:25Z",
+                "open_issues": 108,
                 "owner": "dancormier",
                 "repo": "react-native-swipeout",
-                "stars": 2609
+                "stars": 2609,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -484,12 +718,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deprecated. A pull-to-refresh ListView which shows a loading spinner while your data reloads",
+                "homepage": null,
                 "id": 33193963,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-03-18T07:58:25Z",
+                "open_issues": 36,
                 "owner": "jsdf",
                 "repo": "react-native-refreshable-listview",
-                "stars": 1375
+                "stars": 1375,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -500,12 +739,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drag drop capable wrapper of ListView for React Native",
+                "homepage": null,
                 "id": 50875956,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-07-07T03:40:57Z",
+                "open_issues": 71,
                 "owner": "deanmcpherson",
                 "repo": "react-native-sortable-listview",
-                "stars": 911
+                "stars": 911,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -516,12 +760,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fluid sortable list for React Native",
+                "homepage": null,
                 "id": 41233274,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-10-03T22:29:07Z",
+                "open_issues": 7,
                 "owner": "hayeah",
                 "repo": "react-native-SortableList",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -532,12 +781,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.npmjs.com/package/react-native-draggablelist",
                 "id": 48773108,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-06-11T12:31:43Z",
+                "open_issues": 4,
                 "owner": "hzzcc",
                 "repo": "react-native-draggablelist",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             }
@@ -555,12 +809,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React Native component which renders HTML content as native views",
+                "homepage": null,
                 "id": 33224233,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2024-06-11T10:36:24Z",
+                "open_issues": 144,
                 "owner": "jsdf",
                 "repo": "react-native-htmlview",
-                "stars": 2748
+                "stars": 2748,
+                "topics": [
+                  "html",
+                  "html-parser",
+                  "html-renderer",
+                  "react",
+                  "react-component",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             }
@@ -578,12 +844,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A react native module to show toast like android, it works on iOS and Android.",
+                "homepage": "http://www.devio.org/",
                 "id": 67208804,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-25T07:56:51Z",
+                "open_issues": 84,
                 "owner": "crazycodeboy",
                 "repo": "react-native-easy-toast",
-                "stars": 1145
+                "stars": 1145,
+                "topics": [
+                  "react-native",
+                  "react-native-toast",
+                  "react-toast",
+                  "toast"
+                ]
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -594,12 +870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A <Popover /> component for react-native",
+                "homepage": null,
                 "id": 36532776,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-04-23T22:42:52Z",
+                "open_issues": 26,
                 "owner": "jeanregisser",
                 "repo": "react-native-popover",
-                "stars": 671
+                "stars": 671,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -610,12 +891,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "preserving my stars for vanity. former home of react-native-modal",
+                "homepage": null,
                 "id": 33262423,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-03-29T18:02:09Z",
+                "open_issues": 1,
                 "owner": "brentvatne",
                 "repo": "stargrave-0",
-                "stars": 388
+                "stars": 388,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             }
@@ -633,12 +919,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "React Native UI Components for Material Design",
+                "homepage": "http://react-native-material-design.github.io",
                 "id": 47834354,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-12-27T10:31:49Z",
+                "open_issues": 86,
                 "owner": "invertase",
                 "repo": "react-native-material-design",
-                "stars": 3125
+                "stars": 3125,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -649,12 +940,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material React Native (MRN) - A Material Design style React Native component library.",
+                "homepage": "http://mrn.js.org",
                 "id": 46114698,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-05-28T08:31:20Z",
+                "open_issues": 14,
                 "owner": "binggg",
                 "repo": "mrn",
-                "stars": 1719
+                "stars": 1719,
+                "topics": [
+                  "android",
+                  "material",
+                  "mrn",
+                  "react-native",
+                  "ui-components"
+                ]
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             }
@@ -672,12 +974,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tabbed navigation that you can swipe between, each tab can have  its own ScrollView and maintain its own scroll position between swipes. Pleasantly animated. Customizable tab bar",
+                "homepage": "https://www.npmjs.com/package/react-native-scrollable-tab-view",
                 "id": 37240232,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-06-23T08:18:54Z",
+                "open_issues": 165,
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6946
+                "stars": 6947,
+                "topics": [
+                  "animated",
+                  "react-native",
+                  "swipe",
+                  "tabs"
+                ]
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             }
@@ -699,12 +1011,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.",
+            "homepage": "https://nativebase.io/",
             "id": 56315715,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-31T17:46:33Z",
+            "open_issues": 376,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20385
+            "stars": 20385,
+            "topics": [
+              "android",
+              "hacktoberfest",
+              "ios",
+              "native-platforms",
+              "nativebase",
+              "nextjs",
+              "react",
+              "react-native",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -715,12 +1042,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forms library for react-native",
+            "homepage": null,
             "id": 33044331,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-03T15:45:02Z",
+            "open_issues": 125,
             "owner": "gcanti",
             "repo": "tcomb-form-native",
-            "stars": 3126
+            "stars": 3126,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         }
@@ -737,12 +1069,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 React-Native 集成 ShareSDK 原生模块",
+            "homepage": null,
             "id": 62151452,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2016-12-06T08:14:06Z",
+            "open_issues": 4,
             "owner": "Code4Bull",
             "repo": "RNShareSDK",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -753,12 +1090,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 65525119,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2017-10-19T01:13:54Z",
+            "open_issues": 5,
             "owner": "reactnativecn",
             "repo": "react-native-launch-image",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         }
@@ -777,12 +1119,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JS library for predictable global state management",
+                "homepage": "https://redux.js.org",
                 "id": 36535156,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T02:41:39Z",
+                "open_issues": 49,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61508
+                "stars": 61508,
+                "topics": [
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             },
@@ -793,12 +1142,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An i18n solution for React Native apps on Redux",
+                "homepage": null,
                 "id": 75115342,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-29T13:40:40Z",
+                "open_issues": 0,
                 "owner": "derzunov",
                 "repo": "redux-react-native-i18n",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "arabic",
+                  "belorusian",
+                  "chinese",
+                  "english",
+                  "french",
+                  "german",
+                  "hindi",
+                  "i18n",
+                  "internationalization",
+                  "l10n",
+                  "languages",
+                  "localization",
+                  "mobile",
+                  "pluralization",
+                  "polish",
+                  "react",
+                  "react-native",
+                  "redux",
+                  "russian",
+                  "serbian"
+                ]
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
             }
@@ -820,12 +1195,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform React UI packages",
+            "homepage": "https://necolas.github.io/react-native-web",
             "id": 37153337,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-16T15:10:21Z",
+            "open_issues": 162,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22142
+            "stars": 22142,
+            "topics": [
+              "cross-platform",
+              "css-in-js",
+              "gui-framework",
+              "react",
+              "react-components",
+              "react-dom",
+              "react-native",
+              "react-native-web",
+              "react-ui"
+            ]
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         },
@@ -836,12 +1226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[deprecated in favor of https://microsoft.github.io/react-native-windows/] React Native for macOS is an experimental fork for writing desktop apps using Cocoa",
+            "homepage": null,
             "id": 43640830,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-13T08:45:11Z",
+            "open_issues": 76,
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11193
+            "stars": 11193,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
         }
@@ -850,15 +1245,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:35:01.284Z",
+    "last_updated": "2026-08-29T04:29:18.142Z",
     "original_repository_info": {
       "archived": false,
+      "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
+      "homepage": "http://www.devio.org/tags/#React Native",
       "id": 66321376,
       "language": null,
+      "license": "MIT",
       "last_commit": "2019-12-06T04:03:32Z",
+      "open_issues": 8,
       "owner": "crazycodeboy",
       "repo": "react-native-awesome",
-      "stars": 1820
+      "stars": 1820,
+      "topics": [
+        "react-native",
+        "react-native-lesson",
+        "react-native-resources",
+        "react-native-study",
+        "react-native-tutorial"
+      ]
     },
     "original_repository_sha": "12190d432cf5bc15ea7d32b81f6f63977eea6395",
     "enhanced_repository": "enhansome/react-native-enhansome",
