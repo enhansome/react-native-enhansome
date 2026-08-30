@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-28T18:53:52Z",
+            "last_commit": "2026-08-29T18:26:10Z",
             "open_issues": 1103,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126446,
+            "stars": 126459,
             "topics": [
               "android",
               "app-framework",
@@ -293,7 +293,7 @@
             "open_issues": 28,
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2073,
+            "stars": 2074,
             "topics": [
               "android",
               "ios",
@@ -677,7 +677,7 @@
                 "open_issues": 7,
                 "owner": "jemise111",
                 "repo": "react-native-swipe-list-view",
-                "stars": 2807,
+                "stars": 2808,
                 "topics": [
                   "android",
                   "ios",
@@ -1128,7 +1128,7 @@
                 "open_issues": 49,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61507,
+                "stars": 61506,
                 "topics": [
                   "redux"
                 ]
@@ -1204,7 +1204,7 @@
             "open_issues": 162,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22142,
+            "stars": 22143,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:26:45.247Z",
+    "last_updated": "2026-08-30T07:40:58.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
