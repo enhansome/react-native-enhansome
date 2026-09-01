@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-29T18:26:10Z",
-            "open_issues": 1169,
+            "last_commit": "2026-08-31T16:45:41Z",
+            "open_issues": 1173,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126462,
+            "stars": 126471,
             "topics": [
               "android",
               "app-framework",
@@ -293,7 +293,7 @@
             "open_issues": 28,
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2074,
+            "stars": 2075,
             "topics": [
               "android",
               "ios",
@@ -983,7 +983,7 @@
                 "open_issues": 165,
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6947,
+                "stars": 6946,
                 "topics": [
                   "animated",
                   "react-native",
@@ -1125,10 +1125,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-20T02:41:39Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61509,
+                "stars": 61512,
                 "topics": [
                   "redux"
                 ]
@@ -1201,7 +1201,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-10-16T15:10:21Z",
-            "open_issues": 168,
+            "open_issues": 166,
             "owner": "necolas",
             "repo": "react-native-web",
             "stars": 22141,
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:55:06.186Z",
+    "last_updated": "2026-09-01T07:00:34.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
