@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-05T03:59:01Z",
-            "open_issues": 1172,
+            "last_commit": "2026-09-08T04:23:23Z",
+            "open_issues": 1183,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126522,
+            "stars": 126530,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13885,
+            "stars": 13884,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -471,8 +471,8 @@
                 "id": 35685034,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T21:16:39Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-07T16:25:05Z",
+                "open_issues": 19,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
                 "stars": 17917,
@@ -620,7 +620,7 @@
                 "open_issues": 780,
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10480,
+                "stars": 10481,
                 "topics": [
                   "react",
                   "react-native",
@@ -1124,11 +1124,11 @@
                 "id": 36535156,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-06T22:56:08Z",
+                "last_commit": "2026-09-07T19:21:23Z",
                 "open_issues": 57,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61502,
+                "stars": 61503,
                 "topics": [
                   "redux"
                 ]
@@ -1235,7 +1235,7 @@
             "open_issues": 76,
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11190,
+            "stars": 11191,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:49:23.379Z",
+    "last_updated": "2026-09-08T06:45:21.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
