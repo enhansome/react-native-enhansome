@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-10T01:22:19Z",
+            "last_commit": "2026-09-11T06:38:05Z",
             "open_issues": 1156,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126540,
+            "stars": 126551,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13882,
+            "stars": 13881,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -139,7 +139,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5201,
+            "stars": 5202,
             "topics": [
               "android-app",
               "architecture",
@@ -195,7 +195,7 @@
             "open_issues": 32,
             "owner": "race604",
             "repo": "ZhiHuDaily-React-Native",
-            "stars": 3646,
+            "stars": 3645,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -475,7 +475,7 @@
                 "open_issues": 19,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17918,
+                "stars": 17917,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -1125,10 +1125,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-08T15:50:13Z",
-                "open_issues": 42,
+                "open_issues": 25,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61491,
+                "stars": 61485,
                 "topics": [
                   "redux"
                 ]
@@ -1201,7 +1201,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-10-16T15:10:21Z",
-            "open_issues": 166,
+            "open_issues": 167,
             "owner": "necolas",
             "repo": "react-native-web",
             "stars": 22137,
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T06:50:56.120Z",
+    "last_updated": "2026-09-11T06:50:20.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
