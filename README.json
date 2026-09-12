@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-11T06:38:05Z",
-            "open_issues": 1156,
+            "last_commit": "2026-09-11T16:54:46Z",
+            "open_issues": 1154,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126551,
+            "stars": 126562,
             "topics": [
               "android",
               "app-framework",
@@ -706,7 +706,7 @@
                 "open_issues": 108,
                 "owner": "dancormier",
                 "repo": "react-native-swipeout",
-                "stars": 2608,
+                "stars": 2607,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 376,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20376,
+            "stars": 20375,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T06:50:20.461Z",
+    "last_updated": "2026-09-12T06:42:11.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
