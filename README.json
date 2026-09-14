@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-12T20:34:08Z",
-            "open_issues": 1152,
+            "last_commit": "2026-09-14T06:35:03Z",
+            "open_issues": 1161,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126579,
+            "stars": 126589,
             "topics": [
               "android",
               "app-framework",
@@ -293,7 +293,7 @@
             "open_issues": 28,
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2074,
+            "stars": 2073,
             "topics": [
               "android",
               "ios",
@@ -475,7 +475,7 @@
                 "open_issues": 19,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17915,
+                "stars": 17914,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -1128,7 +1128,7 @@
                 "open_issues": 25,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61488,
+                "stars": 61486,
                 "topics": [
                   "redux"
                 ]
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:59:44.092Z",
+    "last_updated": "2026-09-14T07:22:35.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
