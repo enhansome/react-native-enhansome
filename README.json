@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4056,
+                "stars": 4055,
                 "topics": [
                   "react-native",
                   "react-native-doc",
@@ -49,7 +49,7 @@
                 "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4056,
+                "stars": 4055,
                 "topics": [
                   "react-native",
                   "react-native-doc",
@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-15T06:58:38Z",
-            "open_issues": 1164,
+            "last_commit": "2026-09-15T23:46:37Z",
+            "open_issues": 1147,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126604,
+            "stars": 126625,
             "topics": [
               "android",
               "app-framework",
@@ -677,7 +677,7 @@
                 "open_issues": 7,
                 "owner": "jemise111",
                 "repo": "react-native-swipe-list-view",
-                "stars": 2806,
+                "stars": 2805,
                 "topics": [
                   "android",
                   "ios",
@@ -1128,7 +1128,7 @@
                 "open_issues": 26,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61485,
+                "stars": 61486,
                 "topics": [
                   "redux"
                 ]
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:58:56.442Z",
+    "last_updated": "2026-09-16T07:00:33.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",

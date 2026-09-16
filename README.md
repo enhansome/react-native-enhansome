@@ -1,6 +1,6 @@
 # Awesome React Native 学习资源精选仓库(汇聚知识，分享精华) with stars
 
-[![](https://jaywcjlove.github.io/sb/ico/awesome.svg)](#目录) [![](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/crazycodeboy/react-native-awesome) ⭐ 1,816 | 🐛 8 | 📅 2019-12-06 [![](https://jaywcjlove.github.io/sb/lang/english.svg)](https://github.com/jondot/awesome-react-native) ⭐ 35,698 | 🐛 20 | 📅 2026-08-26
+[![](https://jaywcjlove.github.io/sb/ico/awesome.svg)](#目录) [![](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/crazycodeboy/react-native-awesome) ⭐ 1,816 | 🐛 8 | 📅 2019-12-06 [![](https://jaywcjlove.github.io/sb/lang/english.svg)](https://github.com/jondot/awesome-react-native) ⭐ 35,699 | 🐛 21 | 📅 2026-08-26
 
 React Native Awesome 汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。
 
@@ -131,8 +131,8 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### 系列教程
 
-* [React Native 学习笔记](https://github.com/crazycodeboy/RNStudyNotes) ⭐ 4,056 | 🐛 13 | 🌐 Objective-C | 📅 2020-07-27
-* [React Native 每日一学(Learn a little every day)](https://github.com/crazycodeboy/RNStudyNotes/tree/master/React%20Native%20%E6%AF%8F%E6%97%A5%E4%B8%80%E5%AD%A6) ⭐ 4,056 | 🐛 13 | 🌐 Objective-C | 📅 2020-07-27
+* [React Native 学习笔记](https://github.com/crazycodeboy/RNStudyNotes) ⭐ 4,055 | 🐛 13 | 🌐 Objective-C | 📅 2020-07-27
+* [React Native 每日一学(Learn a little every day)](https://github.com/crazycodeboy/RNStudyNotes/tree/master/React%20Native%20%E6%AF%8F%E6%97%A5%E4%B8%80%E5%AD%A6) ⭐ 4,055 | 🐛 13 | 🌐 Objective-C | 📅 2020-07-27
 * [React Native项目实战视频教程](http://coding.imooc.com/class/304.html)![ hot](http://www.devio.org/img/ico/ico_hot.gif)
 * [React Native免费自学视频](http://www.imooc.com/learn/808)
 * [React Native高手进阶-专栏](http://blog.csdn.net/column/details/react-native-advance.html)
@@ -142,7 +142,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 > 它山之石可以攻玉。
 
-* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,604 | 🐛 1,164 | 🌐 C++ | 📅 2026-09-15：React Native官方Demo，汇集了各种组件，API的使用Examples。
+* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,625 | 🐛 1,147 | 🌐 C++ | 📅 2026-09-15：React Native官方Demo，汇集了各种组件，API的使用Examples。
 
 * [Facebook F8 App ](https://github.com/fbsamples/f8app) ⚠️ Archived：基于React Native 的2016 F8大会APP。
 
@@ -195,7 +195,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### ListView\&ScrollView
 
-* [react-native-swipe-list-view](https://github.com/jemise111/react-native-swipe-list-view) ⭐ 2,806 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-14：滑动删除组件。
+* [react-native-swipe-list-view](https://github.com/jemise111/react-native-swipe-list-view) ⭐ 2,805 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-14：滑动删除组件。
 * [react-native-swipeout](https://github.com/dancormier/react-native-swipeout) ⚠️ Archived：iOS样式的划动删除组件。
 * [react-native-refreshable-listview](https://github.com/jsdf/react-native-refreshable-listview) ⭐ 1,374 | 🐛 36 | 🌐 JavaScript | 📅 2017-03-18：下拉刷新组件。
 * [react-native-sortable-listview](https://github.com/deanmcpherson/react-native-sortable-listview) ⭐ 909 | 🐛 71 | 🌐 JavaScript | 📅 2022-07-07：拖拽排序组件。
@@ -240,7 +240,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### 其他
 
-* [Redux](https://github.com/reactjs/redux/) ⭐ 61,485 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-08：用于JavaScript apps上的一款可预见的状态管理框架。
+* [Redux](https://github.com/reactjs/redux/) ⭐ 61,486 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-08：用于JavaScript apps上的一款可预见的状态管理框架。
 * [redux-react-native-i18n](https://github.com/derzunov/redux-react-native-i18n) ⭐ 48 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-29 An i18n solution with plural forms support for React Native apps on Redux
 * [CodePush](https://microsoft.github.io/code-push/)：CodePush 是微软提供的一套用于热更新 React Native 和 Cordova 应用的服务。
 
@@ -268,4 +268,4 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
