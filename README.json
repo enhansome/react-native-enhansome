@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-15T23:46:37Z",
-            "open_issues": 1147,
+            "last_commit": "2026-09-16T19:09:24Z",
+            "open_issues": 1140,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126625,
+            "stars": 126635,
             "topics": [
               "android",
               "app-framework",
@@ -139,7 +139,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5201,
+            "stars": 5202,
             "topics": [
               "android-app",
               "architecture",
@@ -170,7 +170,7 @@
             "open_issues": 12,
             "owner": "iSimar",
             "repo": "HackerNews-React-Native",
-            "stars": 3705,
+            "stars": 3706,
             "topics": [
               "android",
               "hacker-news",
@@ -293,7 +293,7 @@
             "open_issues": 28,
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2072,
+            "stars": 2071,
             "topics": [
               "android",
               "ios",
@@ -475,7 +475,7 @@
                 "open_issues": 19,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17913,
+                "stars": 17915,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -508,7 +508,7 @@
                 "open_issues": 334,
                 "owner": "aksonov",
                 "repo": "react-native-router-flux",
-                "stars": 8913,
+                "stars": 8912,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -879,7 +879,7 @@
                 "open_issues": 26,
                 "owner": "jeanregisser",
                 "repo": "react-native-popover",
-                "stars": 669,
+                "stars": 670,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -928,7 +928,7 @@
                 "open_issues": 86,
                 "owner": "invertase",
                 "repo": "react-native-material-design",
-                "stars": 3124,
+                "stars": 3123,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -983,7 +983,7 @@
                 "open_issues": 165,
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6945,
+                "stars": 6946,
                 "topics": [
                   "animated",
                   "react-native",
@@ -1124,11 +1124,11 @@
                 "id": 36535156,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T15:50:13Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-16T13:45:40Z",
+                "open_issues": 24,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61486,
+                "stars": 61483,
                 "topics": [
                   "redux"
                 ]
@@ -1201,10 +1201,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-10-16T15:10:21Z",
-            "open_issues": 167,
+            "open_issues": 168,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22136,
+            "stars": 22137,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:00:33.437Z",
+    "last_updated": "2026-09-17T06:56:04.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",

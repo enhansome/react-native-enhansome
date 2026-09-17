@@ -1,6 +1,6 @@
 # Awesome React Native 学习资源精选仓库(汇聚知识，分享精华) with stars
 
-[![](https://jaywcjlove.github.io/sb/ico/awesome.svg)](#目录) [![](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/crazycodeboy/react-native-awesome) ⭐ 1,816 | 🐛 8 | 📅 2019-12-06 [![](https://jaywcjlove.github.io/sb/lang/english.svg)](https://github.com/jondot/awesome-react-native) ⭐ 35,699 | 🐛 21 | 📅 2026-08-26
+[![](https://jaywcjlove.github.io/sb/ico/awesome.svg)](#目录) [![](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/crazycodeboy/react-native-awesome) ⭐ 1,816 | 🐛 8 | 📅 2019-12-06 [![](https://jaywcjlove.github.io/sb/lang/english.svg)](https://github.com/jondot/awesome-react-native) ⭐ 35,697 | 🐛 21 | 📅 2026-08-26
 
 React Native Awesome 汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。
 
@@ -142,13 +142,13 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 > 它山之石可以攻玉。
 
-* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,625 | 🐛 1,147 | 🌐 C++ | 📅 2026-09-15：React Native官方Demo，汇集了各种组件，API的使用Examples。
+* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,635 | 🐛 1,140 | 🌐 C++ | 📅 2026-09-16：React Native官方Demo，汇集了各种组件，API的使用Examples。
 
 * [Facebook F8 App ](https://github.com/fbsamples/f8app) ⚠️ Archived：基于React Native 的2016 F8大会APP。
 
-* [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) ⭐ 5,201 | 🐛 25 | 🌐 JavaScript | 📅 2021-10-03：基于React Native的计算器，iOS/Android、Web、桌面多端。
+* [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) ⭐ 5,202 | 🐛 25 | 🌐 JavaScript | 📅 2021-10-03：基于React Native的计算器，iOS/Android、Web、桌面多端。
 
-* [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) ⭐ 3,705 | 🐛 12 | 🌐 JavaScript | 📅 2022-03-17：Hacker 新闻客户端。
+* [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) ⭐ 3,706 | 🐛 12 | 🌐 JavaScript | 📅 2022-03-17：Hacker 新闻客户端。
 
 * [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) ⭐ 3,644 | 🐛 32 | 🌐 JavaScript | 📅 2023-09-19：知乎日报Android版。
 
@@ -158,7 +158,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 * [react-native-nba-app](https://github.com/wwayne/react-native-nba-app) ⭐ 2,210 | 🐛 8 | 🌐 Objective-C | 📅 2019-10-20：This is why we play。
 
-* [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) ⭐ 2,072 | 🐛 28 | 🌐 JavaScript | 📅 2022-12-06：Finance - 股票报价app。
+* [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) ⭐ 2,071 | 🐛 28 | 🌐 JavaScript | 📅 2022-12-06：Finance - 股票报价app。
 
 * [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app) ⭐ 2,057 | 🐛 20 | 🌐 JavaScript | 📅 2023-10-13：基于React Native的Dribbble客户端。
 
@@ -178,11 +178,11 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### UI
 
-* [react-native-vector-icons ★2281](https://github.com/oblador/react-native-vector-icons) ⭐ 17,913 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-07：用于 React Native的可定制的图标资源库，支持 NavBar/TabBar, image source 以及样式。
+* [react-native-vector-icons ★2281](https://github.com/oblador/react-native-vector-icons) ⭐ 17,915 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-07：用于 React Native的可定制的图标资源库，支持 NavBar/TabBar, image source 以及样式。
 
 ### Navigation
 
-* [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) ⭐ 8,913 | 🐛 334 | 🌐 JavaScript | 📅 2023-06-28：一款很火的导航组件。
+* [react-native-router-flux](https://github.com/aksonov/react-native-router-flux) ⭐ 8,912 | 🐛 334 | 🌐 JavaScript | 📅 2023-06-28：一款很火的导航组件。
 * [react-native-drawer](https://github.com/root-two/react-native-drawer) ⭐ 2,527 | 🐛 182 | 🌐 JavaScript | 📅 2022-04-09：另一款抽屉组件。
 * [react-native-tab-navigator](https://github.com/exponentjs/react-native-tab-navigator) ⭐ 2,381 | 🐛 19 | 🌐 JavaScript | 📅 2020-09-30：一款兼容Android、iOS的TabBar组件。
 * [react-native-navbar](https://github.com/react-native-community/react-native-navbar) ⭐ 1,882 | 🐛 64 | 🌐 JavaScript | 📅 2022-05-16：一款用于React Native上的可定制的导航条。
@@ -209,7 +209,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 ### 弹框
 
 * [react-native-easy-toast](https://github.com/crazycodeboy/react-native-easy-toast) ⭐ 1,143 | 🐛 84 | 🌐 JavaScript | 📅 2024-04-25：一款用于React Native上消息提示弹框组件，使用方便，支持定义Toast，支持iOS,Android。
-* [react-native-popover](https://github.com/jeanregisser/react-native-popover) ⭐ 669 | 🐛 26 | 🌐 JavaScript | 📅 2019-04-23：一款类似Android popupwindow的弹出框组件。
+* [react-native-popover](https://github.com/jeanregisser/react-native-popover) ⭐ 670 | 🐛 26 | 🌐 JavaScript | 📅 2019-04-23：一款类似Android popupwindow的弹出框组件。
 * [react-native-modal](https://github.com/brentvatne/react-native-modal) ⚠️ Archived：模态框，作者已经将该组件添加到React Native，所以开发者可以直接使用[Modal](https://facebook.github.io/react-native/releases/0.31/docs/modal.html);
 
 ### Material Design
@@ -219,7 +219,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### TabLayout
 
-* [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view) ⭐ 6,945 | 🐛 165 | 🌐 JavaScript | 📅 2024-06-23：一款用于React Native上TabLayout组件。
+* [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view) ⭐ 6,946 | 🐛 165 | 🌐 JavaScript | 📅 2024-06-23：一款用于React Native上TabLayout组件。
 
 ## 框架
 
@@ -240,7 +240,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### 其他
 
-* [Redux](https://github.com/reactjs/redux/) ⭐ 61,486 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-08：用于JavaScript apps上的一款可预见的状态管理框架。
+* [Redux](https://github.com/reactjs/redux/) ⭐ 61,483 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-16：用于JavaScript apps上的一款可预见的状态管理框架。
 * [redux-react-native-i18n](https://github.com/derzunov/redux-react-native-i18n) ⭐ 48 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-29 An i18n solution with plural forms support for React Native apps on Redux
 * [CodePush](https://microsoft.github.io/code-push/)：CodePush 是微软提供的一套用于热更新 React Native 和 Cordova 应用的服务。
 
@@ -257,7 +257,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ## 一次学习，随处可写
 
-* [react-native-web](https://github.com/necolas/react-native-web) ⭐ 22,136 | 🐛 167 | 🌐 JavaScript | 📅 2025-10-16：使用React Native组建Web应用。
+* [react-native-web](https://github.com/necolas/react-native-web) ⭐ 22,137 | 🐛 168 | 🌐 JavaScript | 📅 2025-10-16：使用React Native组建Web应用。
 * [react-native-macos](https://github.com/ptmt/react-native-macos) ⭐ 11,190 | 🐛 76 | 🌐 JavaScript | 📅 2024-02-13：使用React Native和Cocoa组建macOS桌面应用。
 
 ## 资源下载
@@ -268,4 +268,4 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
