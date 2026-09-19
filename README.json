@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4055,
+                "stars": 4054,
                 "topics": [
                   "react-native",
                   "react-native-doc",
@@ -49,7 +49,7 @@
                 "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4055,
+                "stars": 4054,
                 "topics": [
                   "react-native",
                   "react-native-doc",
@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-18T00:33:04Z",
-            "open_issues": 1147,
+            "last_commit": "2026-09-18T22:46:31Z",
+            "open_issues": 1149,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126637,
+            "stars": 126649,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13881,
+            "stars": 13880,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -216,7 +216,7 @@
             "open_issues": 15,
             "owner": "attentiveness",
             "repo": "reading",
-            "stars": 3408,
+            "stars": 3407,
             "topics": [
               "android",
               "ios",
@@ -244,7 +244,7 @@
             "open_issues": 67,
             "owner": "crazycodeboy",
             "repo": "GitHubPopular",
-            "stars": 2942,
+            "stars": 2941,
             "topics": [
               "github-app",
               "github-client",
@@ -508,7 +508,7 @@
                 "open_issues": 334,
                 "owner": "aksonov",
                 "repo": "react-native-router-flux",
-                "stars": 8912,
+                "stars": 8911,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -645,7 +645,7 @@
                 "open_issues": 93,
                 "owner": "phil-r",
                 "repo": "react-native-looped-carousel",
-                "stars": 1482,
+                "stars": 1481,
                 "topics": [
                   "carousel",
                   "react",
@@ -818,7 +818,7 @@
                 "open_issues": 144,
                 "owner": "jsdf",
                 "repo": "react-native-htmlview",
-                "stars": 2746,
+                "stars": 2745,
                 "topics": [
                   "html",
                   "html-parser",
@@ -983,7 +983,7 @@
                 "open_issues": 165,
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6946,
+                "stars": 6945,
                 "topics": [
                   "animated",
                   "react-native",
@@ -1124,11 +1124,11 @@
                 "id": 36535156,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T03:52:51Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-19T03:54:06Z",
+                "open_issues": 18,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61483,
+                "stars": 61489,
                 "topics": [
                   "redux"
                 ]
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T06:52:57.804Z",
+    "last_updated": "2026-09-19T06:51:55.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
