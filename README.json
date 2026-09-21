@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-19T21:52:23Z",
+            "last_commit": "2026-09-20T17:57:13Z",
             "open_issues": 1154,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126660,
+            "stars": 126675,
             "topics": [
               "android",
               "app-framework",
@@ -475,7 +475,7 @@
                 "open_issues": 19,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17916,
+                "stars": 17918,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -983,7 +983,7 @@
                 "open_issues": 165,
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6945,
+                "stars": 6946,
                 "topics": [
                   "animated",
                   "react-native",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20374,
+            "stars": 20376,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1124,11 +1124,11 @@
                 "id": 36535156,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T01:59:42Z",
+                "last_commit": "2026-09-21T03:58:46Z",
                 "open_issues": 20,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61491,
+                "stars": 61490,
                 "topics": [
                   "redux"
                 ]
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:16:42.057Z",
+    "last_updated": "2026-09-21T07:26:27.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
