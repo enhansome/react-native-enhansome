@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-20T17:57:13Z",
-            "open_issues": 1154,
+            "last_commit": "2026-09-22T06:10:40Z",
+            "open_issues": 1151,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126675,
+            "stars": 126689,
             "topics": [
               "android",
               "app-framework",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20376,
+            "stars": 20375,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1051,7 +1051,7 @@
             "open_issues": 125,
             "owner": "gcanti",
             "repo": "tcomb-form-native",
-            "stars": 3124,
+            "stars": 3123,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1235,7 +1235,7 @@
             "open_issues": 76,
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11191,
+            "stars": 11189,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T07:26:27.787Z",
+    "last_updated": "2026-09-22T07:04:06.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
