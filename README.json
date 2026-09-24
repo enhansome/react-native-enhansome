@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4054,
+                "stars": 4053,
                 "topics": [
                   "react-native",
                   "react-native-doc",
@@ -49,7 +49,7 @@
                 "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4054,
+                "stars": 4053,
                 "topics": [
                   "react-native",
                   "react-native-doc",
@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-22T19:22:49Z",
-            "open_issues": 1151,
+            "last_commit": "2026-09-24T00:33:33Z",
+            "open_issues": 1155,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126701,
+            "stars": 126704,
             "topics": [
               "android",
               "app-framework",
@@ -139,7 +139,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5202,
+            "stars": 5201,
             "topics": [
               "android-app",
               "architecture",
@@ -348,7 +348,7 @@
             "open_issues": 27,
             "owner": "osdio",
             "repo": "noder-react-native",
-            "stars": 1954,
+            "stars": 1953,
             "topics": [
               "cnodejs",
               "noder",
@@ -620,7 +620,7 @@
                 "open_issues": 777,
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10478,
+                "stars": 10479,
                 "topics": [
                   "react",
                   "react-native",
@@ -727,7 +727,7 @@
                 "open_issues": 36,
                 "owner": "jsdf",
                 "repo": "react-native-refreshable-listview",
-                "stars": 1374,
+                "stars": 1375,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -879,7 +879,7 @@
                 "open_issues": 26,
                 "owner": "jeanregisser",
                 "repo": "react-native-popover",
-                "stars": 670,
+                "stars": 671,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1124,11 +1124,11 @@
                 "id": 36535156,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T21:08:14Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-23T10:46:04Z",
+                "open_issues": 18,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61489,
+                "stars": 61490,
                 "topics": [
                   "redux"
                 ]
@@ -1204,7 +1204,7 @@
             "open_issues": 168,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22135,
+            "stars": 22136,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T07:00:58.066Z",
+    "last_updated": "2026-09-24T06:57:45.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
