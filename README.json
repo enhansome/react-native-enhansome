@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-25T06:33:45Z",
-            "open_issues": 1147,
+            "last_commit": "2026-09-26T00:06:05Z",
+            "open_issues": 1134,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126724,
+            "stars": 126729,
             "topics": [
               "android",
               "app-framework",
@@ -1128,7 +1128,7 @@
                 "open_issues": 18,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61488,
+                "stars": 61489,
                 "topics": [
                   "redux"
                 ]
@@ -1200,11 +1200,11 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2025-10-16T15:10:21Z",
-            "open_issues": 168,
+            "last_commit": "2026-09-25T15:04:17Z",
+            "open_issues": 149,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22138,
+            "stars": 22137,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T06:52:03.331Z",
+    "last_updated": "2026-09-26T06:53:02.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
