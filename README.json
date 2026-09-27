@@ -85,10 +85,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-26T00:06:05Z",
-            "open_issues": 1134,
+            "open_issues": 1136,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126729,
+            "stars": 126744,
             "topics": [
               "android",
               "app-framework",
@@ -139,7 +139,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5201,
+            "stars": 5202,
             "topics": [
               "android-app",
               "architecture",
@@ -216,7 +216,7 @@
             "open_issues": 15,
             "owner": "attentiveness",
             "repo": "reading",
-            "stars": 3408,
+            "stars": 3407,
             "topics": [
               "android",
               "ios",
@@ -244,7 +244,7 @@
             "open_issues": 67,
             "owner": "crazycodeboy",
             "repo": "GitHubPopular",
-            "stars": 2941,
+            "stars": 2940,
             "topics": [
               "github-app",
               "github-client",
@@ -508,7 +508,7 @@
                 "open_issues": 334,
                 "owner": "aksonov",
                 "repo": "react-native-router-flux",
-                "stars": 8913,
+                "stars": 8912,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -727,7 +727,7 @@
                 "open_issues": 36,
                 "owner": "jsdf",
                 "repo": "react-native-refreshable-listview",
-                "stars": 1375,
+                "stars": 1374,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -983,7 +983,7 @@
                 "open_issues": 165,
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6946,
+                "stars": 6945,
                 "topics": [
                   "animated",
                   "react-native",
@@ -1051,7 +1051,7 @@
             "open_issues": 125,
             "owner": "gcanti",
             "repo": "tcomb-form-native",
-            "stars": 3123,
+            "stars": 3122,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1235,7 +1235,7 @@
             "open_issues": 76,
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11188,
+            "stars": 11187,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:53:02.348Z",
+    "last_updated": "2026-09-27T07:21:51.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
