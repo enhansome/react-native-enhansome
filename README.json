@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-30T02:09:24Z",
-            "open_issues": 1141,
+            "last_commit": "2026-10-01T05:36:34Z",
+            "open_issues": 1131,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126760,
+            "stars": 126778,
             "topics": [
               "android",
               "app-framework",
@@ -139,7 +139,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5201,
+            "stars": 5202,
             "topics": [
               "android-app",
               "architecture",
@@ -475,7 +475,7 @@
                 "open_issues": 19,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17919,
+                "stars": 17918,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -1128,7 +1128,7 @@
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61486,
+                "stars": 61483,
                 "topics": [
                   "redux"
                 ]
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T07:43:46.239Z",
+    "last_updated": "2026-10-01T08:03:12.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
