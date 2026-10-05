@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:00:48Z",
-            "open_issues": 1113,
+            "last_commit": "2026-10-05T07:38:33Z",
+            "open_issues": 1120,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126788,
+            "stars": 126797,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13877,
+            "stars": 13876,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -983,7 +983,7 @@
                 "open_issues": 165,
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6942,
+                "stars": 6943,
                 "topics": [
                   "animated",
                   "react-native",
@@ -1128,7 +1128,7 @@
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61483,
+                "stars": 61484,
                 "topics": [
                   "redux"
                 ]
@@ -1201,7 +1201,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-25T15:04:17Z",
-            "open_issues": 147,
+            "open_issues": 149,
             "owner": "necolas",
             "repo": "react-native-web",
             "stars": 22139,
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:35:41.401Z",
+    "last_updated": "2026-10-05T07:58:10.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
