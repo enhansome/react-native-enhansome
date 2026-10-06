@@ -142,7 +142,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 > 它山之石可以攻玉。
 
-* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,801 | 🐛 1,137 | 🌐 C++ | 📅 2026-10-06：React Native官方Demo，汇集了各种组件，API的使用Examples。
+* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,804 | 🐛 1,139 | 🌐 C++ | 📅 2026-10-06：React Native官方Demo，汇集了各种组件，API的使用Examples。
 
 * [Facebook F8 App ](https://github.com/fbsamples/f8app) ⚠️ Archived：基于React Native 的2016 F8大会APP。
 
@@ -178,7 +178,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### UI
 
-* [react-native-vector-icons ★2281](https://github.com/oblador/react-native-vector-icons) ⭐ 17,917 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-07：用于 React Native的可定制的图标资源库，支持 NavBar/TabBar, image source 以及样式。
+* [react-native-vector-icons ★2281](https://github.com/oblador/react-native-vector-icons) ⭐ 17,918 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-07：用于 React Native的可定制的图标资源库，支持 NavBar/TabBar, image source 以及样式。
 
 ### Navigation
 
