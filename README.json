@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:52:48Z",
-            "open_issues": 1139,
+            "last_commit": "2026-10-07T02:51:54Z",
+            "open_issues": 1144,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126804,
+            "stars": 126810,
             "topics": [
               "android",
               "app-framework",
@@ -244,7 +244,7 @@
             "open_issues": 67,
             "owner": "crazycodeboy",
             "repo": "GitHubPopular",
-            "stars": 2936,
+            "stars": 2935,
             "topics": [
               "github-app",
               "github-client",
@@ -475,7 +475,7 @@
                 "open_issues": 19,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17918,
+                "stars": 17920,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20374,
+            "stars": 20373,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1128,7 +1128,7 @@
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61481,
+                "stars": 61480,
                 "topics": [
                   "redux"
                 ]
@@ -1200,11 +1200,11 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T15:04:17Z",
-            "open_issues": 149,
+            "last_commit": "2026-10-07T07:46:05Z",
+            "open_issues": 135,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22138,
+            "stars": 22137,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1235,7 +1235,7 @@
             "open_issues": 76,
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11187,
+            "stars": 11186,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:09:48.241Z",
+    "last_updated": "2026-10-07T07:57:14.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
