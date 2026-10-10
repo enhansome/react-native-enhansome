@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-09T07:10:11Z",
-            "open_issues": 1154,
+            "last_commit": "2026-10-09T17:35:56Z",
+            "open_issues": 1149,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126605,
+            "stars": 126613,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13874,
+            "stars": 13873,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -216,7 +216,7 @@
             "open_issues": 15,
             "owner": "attentiveness",
             "repo": "reading",
-            "stars": 3408,
+            "stars": 3407,
             "topics": [
               "android",
               "ios",
@@ -475,7 +475,7 @@
                 "open_issues": 20,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17920,
+                "stars": 17917,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -508,7 +508,7 @@
                 "open_issues": 334,
                 "owner": "aksonov",
                 "repo": "react-native-router-flux",
-                "stars": 8912,
+                "stars": 8911,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -550,7 +550,7 @@
                 "open_issues": 19,
                 "owner": "ptomasroos",
                 "repo": "react-native-tab-navigator",
-                "stars": 2379,
+                "stars": 2378,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -571,7 +571,7 @@
                 "open_issues": 64,
                 "owner": "Kureev",
                 "repo": "react-native-navbar",
-                "stars": 1882,
+                "stars": 1879,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -617,10 +617,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-01T13:04:07Z",
-                "open_issues": 780,
+                "open_issues": 779,
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10480,
+                "stars": 10479,
                 "topics": [
                   "react",
                   "react-native",
@@ -706,7 +706,7 @@
                 "open_issues": 108,
                 "owner": "dancormier",
                 "repo": "react-native-swipeout",
-                "stars": 2604,
+                "stars": 2603,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -928,7 +928,7 @@
                 "open_issues": 86,
                 "owner": "invertase",
                 "repo": "react-native-material-design",
-                "stars": 3123,
+                "stars": 3121,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -949,7 +949,7 @@
                 "open_issues": 14,
                 "owner": "binggg",
                 "repo": "mrn",
-                "stars": 1717,
+                "stars": 1716,
                 "topics": [
                   "android",
                   "material",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20372,
+            "stars": 20367,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1128,7 +1128,7 @@
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61478,
+                "stars": 61475,
                 "topics": [
                   "redux"
                 ]
@@ -1200,8 +1200,8 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T06:51:34Z",
-            "open_issues": 137,
+            "last_commit": "2026-10-09T14:44:57Z",
+            "open_issues": 141,
             "owner": "necolas",
             "repo": "react-native-web",
             "stars": 22143,
@@ -1235,7 +1235,7 @@
             "open_issues": 76,
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11185,
+            "stars": 11186,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T08:11:53.507Z",
+    "last_updated": "2026-10-10T07:55:24.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
