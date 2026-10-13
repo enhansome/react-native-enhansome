@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-12T07:32:04Z",
-            "open_issues": 1162,
+            "last_commit": "2026-10-13T04:48:54Z",
+            "open_issues": 1164,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126633,
+            "stars": 126651,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13871,
+            "stars": 13870,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -244,7 +244,7 @@
             "open_issues": 67,
             "owner": "crazycodeboy",
             "repo": "GitHubPopular",
-            "stars": 2935,
+            "stars": 2936,
             "topics": [
               "github-app",
               "github-client",
@@ -320,7 +320,7 @@
             "open_issues": 20,
             "owner": "catalinmiron",
             "repo": "react-native-dribbble-app",
-            "stars": 2057,
+            "stars": 2056,
             "topics": [
               "dribbble",
               "ios",
@@ -471,11 +471,11 @@
                 "id": 35685034,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T08:18:10Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-12T08:53:09Z",
+                "open_issues": 16,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17916,
+                "stars": 17915,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -620,7 +620,7 @@
                 "open_issues": 779,
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10479,
+                "stars": 10480,
                 "topics": [
                   "react",
                   "react-native",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20366,
+            "stars": 20367,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1128,7 +1128,7 @@
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61471,
+                "stars": 61470,
                 "topics": [
                   "redux"
                 ]
@@ -1200,8 +1200,8 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T07:40:15Z",
-            "open_issues": 138,
+            "last_commit": "2026-10-12T09:56:13Z",
+            "open_issues": 139,
             "owner": "necolas",
             "repo": "react-native-web",
             "stars": 22144,
@@ -1235,7 +1235,7 @@
             "open_issues": 76,
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11186,
+            "stars": 11185,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T08:18:53.341Z",
+    "last_updated": "2026-10-13T08:43:49.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
