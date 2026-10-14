@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-13T04:48:54Z",
-            "open_issues": 1164,
+            "last_commit": "2026-10-13T22:23:29Z",
+            "open_issues": 1159,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126651,
+            "stars": 126667,
             "topics": [
               "android",
               "app-framework",
@@ -139,7 +139,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5201,
+            "stars": 5202,
             "topics": [
               "android-app",
               "architecture",
@@ -170,7 +170,7 @@
             "open_issues": 12,
             "owner": "iSimar",
             "repo": "HackerNews-React-Native",
-            "stars": 3702,
+            "stars": 3703,
             "topics": [
               "android",
               "hacker-news",
@@ -272,7 +272,7 @@
             "open_issues": 8,
             "owner": "wwayne",
             "repo": "react-native-nba-app",
-            "stars": 2211,
+            "stars": 2212,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -293,7 +293,7 @@
             "open_issues": 28,
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2072,
+            "stars": 2073,
             "topics": [
               "android",
               "ios",
@@ -320,7 +320,7 @@
             "open_issues": 20,
             "owner": "catalinmiron",
             "repo": "react-native-dribbble-app",
-            "stars": 2056,
+            "stars": 2057,
             "topics": [
               "dribbble",
               "ios",
@@ -377,7 +377,7 @@
             "open_issues": 8,
             "owner": "xiekw2010",
             "repo": "react-native-gitfeed",
-            "stars": 1701,
+            "stars": 1702,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -475,7 +475,7 @@
                 "open_issues": 16,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17915,
+                "stars": 17916,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -505,7 +505,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2023-06-28T10:35:04Z",
-                "open_issues": 334,
+                "open_issues": 335,
                 "owner": "aksonov",
                 "repo": "react-native-router-flux",
                 "stars": 8910,
@@ -571,7 +571,7 @@
                 "open_issues": 64,
                 "owner": "Kureev",
                 "repo": "react-native-navbar",
-                "stars": 1879,
+                "stars": 1880,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -592,7 +592,7 @@
                 "open_issues": 0,
                 "owner": "iodine",
                 "repo": "react-native-drawer-layout",
-                "stars": 281,
+                "stars": 282,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -620,7 +620,7 @@
                 "open_issues": 779,
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10480,
+                "stars": 10479,
                 "topics": [
                   "react",
                   "react-native",
@@ -677,7 +677,7 @@
                 "open_issues": 12,
                 "owner": "jemise111",
                 "repo": "react-native-swipe-list-view",
-                "stars": 2806,
+                "stars": 2805,
                 "topics": [
                   "android",
                   "ios",
@@ -748,7 +748,7 @@
                 "open_issues": 71,
                 "owner": "deanmcpherson",
                 "repo": "react-native-sortable-listview",
-                "stars": 908,
+                "stars": 909,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -983,7 +983,7 @@
                 "open_issues": 165,
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6943,
+                "stars": 6942,
                 "topics": [
                   "animated",
                   "react-native",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20367,
+            "stars": 20365,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1128,7 +1128,7 @@
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61470,
+                "stars": 61474,
                 "topics": [
                   "redux"
                 ]
@@ -1204,7 +1204,7 @@
             "open_issues": 139,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22144,
+            "stars": 22146,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T08:43:49.602Z",
+    "last_updated": "2026-10-14T06:54:59.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
