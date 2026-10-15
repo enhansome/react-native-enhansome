@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-13T22:23:29Z",
-            "open_issues": 1159,
+            "last_commit": "2026-10-15T01:43:13Z",
+            "open_issues": 1166,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126667,
+            "stars": 126678,
             "topics": [
               "android",
               "app-framework",
@@ -471,11 +471,11 @@
                 "id": 35685034,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T08:53:09Z",
+                "last_commit": "2026-10-14T16:14:45Z",
                 "open_issues": 16,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17916,
+                "stars": 17915,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -1051,7 +1051,7 @@
             "open_issues": 125,
             "owner": "gcanti",
             "repo": "tcomb-form-native",
-            "stars": 3121,
+            "stars": 3120,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1200,11 +1200,11 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T09:56:13Z",
-            "open_issues": 139,
+            "last_commit": "2026-10-15T06:20:46Z",
+            "open_issues": 140,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22146,
+            "stars": 22144,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1235,7 +1235,7 @@
             "open_issues": 76,
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11185,
+            "stars": 11184,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T06:54:59.106Z",
+    "last_updated": "2026-10-15T06:44:41.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
