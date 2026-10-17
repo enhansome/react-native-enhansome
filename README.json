@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-16T03:49:47Z",
-            "open_issues": 1177,
+            "last_commit": "2026-10-17T00:51:45Z",
+            "open_issues": 1181,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126689,
+            "stars": 126693,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13870,
+            "stars": 13869,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -293,7 +293,7 @@
             "open_issues": 28,
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2073,
+            "stars": 2074,
             "topics": [
               "android",
               "ios",
@@ -471,8 +471,8 @@
                 "id": 35685034,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T16:14:45Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-16T11:15:08Z",
+                "open_issues": 15,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
                 "stars": 17916,
@@ -620,7 +620,7 @@
                 "open_issues": 779,
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10480,
+                "stars": 10478,
                 "topics": [
                   "react",
                   "react-native",
@@ -748,7 +748,7 @@
                 "open_issues": 71,
                 "owner": "deanmcpherson",
                 "repo": "react-native-sortable-listview",
-                "stars": 909,
+                "stars": 908,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -983,7 +983,7 @@
                 "open_issues": 165,
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6942,
+                "stars": 6940,
                 "topics": [
                   "animated",
                   "react-native",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20366,
+            "stars": 20365,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1200,11 +1200,11 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T18:31:24Z",
-            "open_issues": 142,
+            "last_commit": "2026-10-16T13:24:14Z",
+            "open_issues": 131,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22145,
+            "stars": 22147,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T06:34:52.963Z",
+    "last_updated": "2026-10-17T06:24:25.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
