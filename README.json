@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-20T06:18:49Z",
-            "open_issues": 1200,
+            "last_commit": "2026-10-21T00:28:55Z",
+            "open_issues": 1235,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126727,
+            "stars": 126738,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13869,
+            "stars": 13867,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -195,7 +195,7 @@
             "open_issues": 32,
             "owner": "race604",
             "repo": "ZhiHuDaily-React-Native",
-            "stars": 3637,
+            "stars": 3638,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -216,7 +216,7 @@
             "open_issues": 15,
             "owner": "attentiveness",
             "repo": "reading",
-            "stars": 3407,
+            "stars": 3406,
             "topics": [
               "android",
               "ios",
@@ -272,7 +272,7 @@
             "open_issues": 8,
             "owner": "wwayne",
             "repo": "react-native-nba-app",
-            "stars": 2212,
+            "stars": 2211,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -475,7 +475,7 @@
                 "open_issues": 14,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17917,
+                "stars": 17918,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -620,7 +620,7 @@
                 "open_issues": 779,
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10477,
+                "stars": 10476,
                 "topics": [
                   "react",
                   "react-native",
@@ -673,8 +673,8 @@
                 "id": 56270304,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T19:14:04Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-20T19:44:33Z",
+                "open_issues": 13,
                 "owner": "jemise111",
                 "repo": "react-native-swipe-list-view",
                 "stars": 2804,
@@ -1124,11 +1124,11 @@
                 "id": 36535156,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T14:50:40Z",
+                "last_commit": "2026-10-20T19:04:18Z",
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61476,
+                "stars": 61455,
                 "topics": [
                   "redux"
                 ]
@@ -1200,8 +1200,8 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T16:12:29Z",
-            "open_issues": 133,
+            "last_commit": "2026-10-20T14:46:19Z",
+            "open_issues": 132,
             "owner": "necolas",
             "repo": "react-native-web",
             "stars": 22151,
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T06:52:56.360Z",
+    "last_updated": "2026-10-21T06:49:00.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
