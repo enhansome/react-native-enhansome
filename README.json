@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-22T01:07:26Z",
-            "open_issues": 1247,
+            "last_commit": "2026-10-23T06:08:24Z",
+            "open_issues": 1250,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126746,
+            "stars": 126758,
             "topics": [
               "android",
               "app-framework",
@@ -508,7 +508,7 @@
                 "open_issues": 335,
                 "owner": "aksonov",
                 "repo": "react-native-router-flux",
-                "stars": 8911,
+                "stars": 8910,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1128,7 +1128,7 @@
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61447,
+                "stars": 61446,
                 "topics": [
                   "redux"
                 ]
@@ -1200,11 +1200,11 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T19:46:36Z",
-            "open_issues": 123,
+            "last_commit": "2026-10-22T14:29:33Z",
+            "open_issues": 125,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22152,
+            "stars": 22151,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:51:04.267Z",
+    "last_updated": "2026-10-23T06:45:52.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
