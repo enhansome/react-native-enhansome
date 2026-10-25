@@ -85,10 +85,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-24T00:36:44Z",
-            "open_issues": 1261,
+            "open_issues": 1276,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126775,
+            "stars": 126779,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13866,
+            "stars": 13867,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -475,7 +475,7 @@
                 "open_issues": 14,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17919,
+                "stars": 17922,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -508,7 +508,7 @@
                 "open_issues": 335,
                 "owner": "aksonov",
                 "repo": "react-native-router-flux",
-                "stars": 8910,
+                "stars": 8911,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -620,7 +620,7 @@
                 "open_issues": 779,
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10477,
+                "stars": 10478,
                 "topics": [
                   "react",
                   "react-native",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20367,
+            "stars": 20370,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1128,7 +1128,7 @@
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61446,
+                "stars": 61450,
                 "topics": [
                   "redux"
                 ]
@@ -1204,7 +1204,7 @@
             "open_issues": 124,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22151,
+            "stars": 22154,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1235,7 +1235,7 @@
             "open_issues": 76,
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11184,
+            "stars": 11185,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:40:59.090Z",
+    "last_updated": "2026-10-25T07:07:22.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
