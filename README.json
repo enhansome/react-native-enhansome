@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-24T00:36:44Z",
-            "open_issues": 1276,
+            "last_commit": "2026-10-26T05:03:28Z",
+            "open_issues": 1284,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126779,
+            "stars": 126790,
             "topics": [
               "android",
               "app-framework",
@@ -139,7 +139,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5203,
+            "stars": 5204,
             "topics": [
               "android-app",
               "architecture",
@@ -195,7 +195,7 @@
             "open_issues": 32,
             "owner": "race604",
             "repo": "ZhiHuDaily-React-Native",
-            "stars": 3638,
+            "stars": 3639,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -244,7 +244,7 @@
             "open_issues": 67,
             "owner": "crazycodeboy",
             "repo": "GitHubPopular",
-            "stars": 2935,
+            "stars": 2936,
             "topics": [
               "github-app",
               "github-client",
@@ -293,7 +293,7 @@
             "open_issues": 28,
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2075,
+            "stars": 2073,
             "topics": [
               "android",
               "ios",
@@ -571,7 +571,7 @@
                 "open_issues": 64,
                 "owner": "Kureev",
                 "repo": "react-native-navbar",
-                "stars": 1881,
+                "stars": 1880,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -620,7 +620,7 @@
                 "open_issues": 779,
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10478,
+                "stars": 10477,
                 "topics": [
                   "react",
                   "react-native",
@@ -1051,7 +1051,7 @@
             "open_issues": 125,
             "owner": "gcanti",
             "repo": "tcomb-form-native",
-            "stars": 3118,
+            "stars": 3117,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1128,7 +1128,7 @@
                 "open_issues": 15,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61450,
+                "stars": 61446,
                 "topics": [
                   "redux"
                 ]
@@ -1201,10 +1201,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-22T14:29:33Z",
-            "open_issues": 124,
+            "open_issues": 125,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22154,
+            "stars": 22155,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:07:22.259Z",
+    "last_updated": "2026-10-26T07:14:20.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
