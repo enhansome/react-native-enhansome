@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-26T05:03:28Z",
-            "open_issues": 1284,
+            "last_commit": "2026-10-27T02:16:23Z",
+            "open_issues": 1272,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126790,
+            "stars": 126805,
             "topics": [
               "android",
               "app-framework",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20370,
+            "stars": 20371,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T07:14:20.317Z",
+    "last_updated": "2026-10-27T07:04:17.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
