@@ -142,7 +142,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 > 它山之石可以攻玉。
 
-* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,828 | 🐛 1,337 | 🌐 C++ | 📅 2026-10-30：React Native官方Demo，汇集了各种组件，API的使用Examples。
+* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,840 | 🐛 1,341 | 🌐 C++ | 📅 2026-10-31：React Native官方Demo，汇集了各种组件，API的使用Examples。
 
 * [Facebook F8 App ](https://github.com/fbsamples/f8app) ⚠️ Archived：基于React Native 的2016 F8大会APP。
 
@@ -178,7 +178,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### UI
 
-* [react-native-vector-icons ★2281](https://github.com/oblador/react-native-vector-icons) ⭐ 17,921 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-19：用于 React Native的可定制的图标资源库，支持 NavBar/TabBar, image source 以及样式。
+* [react-native-vector-icons ★2281](https://github.com/oblador/react-native-vector-icons) ⭐ 17,924 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-19：用于 React Native的可定制的图标资源库，支持 NavBar/TabBar, image source 以及样式。
 
 ### Navigation
 
@@ -198,7 +198,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 * [react-native-swipe-list-view](https://github.com/jemise111/react-native-swipe-list-view) ⭐ 2,804 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-20：滑动删除组件。
 * [react-native-swipeout](https://github.com/dancormier/react-native-swipeout) ⚠️ Archived：iOS样式的划动删除组件。
 * [react-native-refreshable-listview](https://github.com/jsdf/react-native-refreshable-listview) ⭐ 1,374 | 🐛 36 | 🌐 JavaScript | 📅 2017-03-18：下拉刷新组件。
-* [react-native-sortable-listview](https://github.com/deanmcpherson/react-native-sortable-listview) ⭐ 908 | 🐛 71 | 🌐 JavaScript | 📅 2022-07-07：拖拽排序组件。
+* [react-native-sortable-listview](https://github.com/deanmcpherson/react-native-sortable-listview) ⭐ 907 | 🐛 71 | 🌐 JavaScript | 📅 2022-07-07：拖拽排序组件。
 * [react-native-SortableList](https://github.com/hayeah/react-native-SortableList) ⭐ 108 | 🐛 7 | 🌐 JavaScript | 📅 2015-10-03：拖拽排序组件。
 * [react-native-draggablelist](https://github.com/hzzcc/react-native-draggablelist) ⭐ 25 | 🐛 4 | 🌐 JavaScript | 📅 2016-06-11：拖排序组件。
 
@@ -240,7 +240,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### 其他
 
-* [Redux](https://github.com/reactjs/redux/) ⭐ 61,440 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-20：用于JavaScript apps上的一款可预见的状态管理框架。
+* [Redux](https://github.com/reactjs/redux/) ⭐ 61,438 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-20：用于JavaScript apps上的一款可预见的状态管理框架。
 * [redux-react-native-i18n](https://github.com/derzunov/redux-react-native-i18n) ⭐ 48 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-29 An i18n solution with plural forms support for React Native apps on Redux
 * [CodePush](https://microsoft.github.io/code-push/)：CodePush 是微软提供的一套用于热更新 React Native 和 Cordova 应用的服务。
 
@@ -257,8 +257,8 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ## 一次学习，随处可写
 
-* [react-native-web](https://github.com/necolas/react-native-web) ⭐ 22,158 | 🐛 105 | 🌐 JavaScript | 📅 2026-10-29：使用React Native组建Web应用。
-* [react-native-macos](https://github.com/ptmt/react-native-macos) ⭐ 11,182 | 🐛 76 | 🌐 JavaScript | 📅 2024-02-13：使用React Native和Cocoa组建macOS桌面应用。
+* [react-native-web](https://github.com/necolas/react-native-web) ⭐ 22,158 | 🐛 101 | 🌐 JavaScript | 📅 2026-10-30：使用React Native组建Web应用。
+* [react-native-macos](https://github.com/ptmt/react-native-macos) ⭐ 11,181 | 🐛 76 | 🌐 JavaScript | 📅 2024-02-13：使用React Native和Cocoa组建macOS桌面应用。
 
 ## 资源下载
 
@@ -268,4 +268,4 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
