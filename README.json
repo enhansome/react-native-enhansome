@@ -84,8 +84,8 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-02T07:09:38Z",
-            "open_issues": 1362,
+            "last_commit": "2026-11-03T08:31:58Z",
+            "open_issues": 1368,
             "owner": "react",
             "repo": "react-native",
             "stars": 126852,
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13865,
+            "stars": 13864,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -139,7 +139,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5203,
+            "stars": 5202,
             "topics": [
               "android-app",
               "architecture",
@@ -475,7 +475,7 @@
                 "open_issues": 14,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17925,
+                "stars": 17926,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -508,7 +508,7 @@
                 "open_issues": 335,
                 "owner": "aksonov",
                 "repo": "react-native-router-flux",
-                "stars": 8910,
+                "stars": 8909,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -620,7 +620,7 @@
                 "open_issues": 780,
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10476,
+                "stars": 10477,
                 "topics": [
                   "react",
                   "react-native",
@@ -983,7 +983,7 @@
                 "open_issues": 165,
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6940,
+                "stars": 6942,
                 "topics": [
                   "animated",
                   "react-native",
@@ -1128,7 +1128,7 @@
                 "open_issues": 17,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61442,
+                "stars": 61441,
                 "topics": [
                   "redux"
                 ]
@@ -1200,11 +1200,11 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T14:29:31Z",
-            "open_issues": 105,
+            "last_commit": "2026-11-02T18:14:19Z",
+            "open_issues": 99,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22159,
+            "stars": 22161,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T08:39:11.765Z",
+    "last_updated": "2026-11-03T08:50:50.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
