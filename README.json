@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4050,
+                "stars": 4049,
                 "topics": [
                   "react-native",
                   "react-native-doc",
@@ -49,7 +49,7 @@
                 "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4050,
+                "stars": 4049,
                 "topics": [
                   "react-native",
                   "react-native-doc",
@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-04T23:55:04Z",
-            "open_issues": 1364,
+            "last_commit": "2026-11-06T04:06:24Z",
+            "open_issues": 1366,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126856,
+            "stars": 126864,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13864,
+            "stars": 13865,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -293,7 +293,7 @@
             "open_issues": 28,
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2072,
+            "stars": 2071,
             "topics": [
               "android",
               "ios",
@@ -348,7 +348,7 @@
             "open_issues": 27,
             "owner": "osdio",
             "repo": "noder-react-native",
-            "stars": 1952,
+            "stars": 1951,
             "topics": [
               "cnodejs",
               "noder",
@@ -475,7 +475,7 @@
                 "open_issues": 14,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17924,
+                "stars": 17926,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20368,
+            "stars": 20369,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1128,7 +1128,7 @@
                 "open_issues": 17,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61443,
+                "stars": 61441,
                 "topics": [
                   "redux"
                 ]
@@ -1200,8 +1200,8 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T17:48:56Z",
-            "open_issues": 90,
+            "last_commit": "2026-11-05T18:15:14Z",
+            "open_issues": 60,
             "owner": "necolas",
             "repo": "react-native-web",
             "stars": 22161,
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T08:45:32.882Z",
+    "last_updated": "2026-11-06T08:46:49.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
@@ -1257,7 +1257,7 @@
       "open_issues": 9,
       "owner": "crazycodeboy",
       "repo": "react-native-awesome",
-      "stars": 1816,
+      "stars": 1815,
       "topics": [
         "react-native",
         "react-native-lesson",
