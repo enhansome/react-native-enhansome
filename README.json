@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-06T04:06:24Z",
-            "open_issues": 1366,
+            "last_commit": "2026-11-07T03:42:02Z",
+            "open_issues": 1379,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126864,
+            "stars": 126870,
             "topics": [
               "android",
               "app-framework",
@@ -139,7 +139,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5203,
+            "stars": 5204,
             "topics": [
               "android-app",
               "architecture",
@@ -170,7 +170,7 @@
             "open_issues": 12,
             "owner": "iSimar",
             "repo": "HackerNews-React-Native",
-            "stars": 3703,
+            "stars": 3704,
             "topics": [
               "android",
               "hacker-news",
@@ -244,7 +244,7 @@
             "open_issues": 67,
             "owner": "crazycodeboy",
             "repo": "GitHubPopular",
-            "stars": 2935,
+            "stars": 2933,
             "topics": [
               "github-app",
               "github-client",
@@ -1128,7 +1128,7 @@
                 "open_issues": 17,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61441,
+                "stars": 61439,
                 "topics": [
                   "redux"
                 ]
@@ -1200,8 +1200,8 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T18:15:14Z",
-            "open_issues": 60,
+            "last_commit": "2026-11-06T18:01:01Z",
+            "open_issues": 45,
             "owner": "necolas",
             "repo": "react-native-web",
             "stars": 22161,
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T08:46:49.717Z",
+    "last_updated": "2026-11-07T08:02:08.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",

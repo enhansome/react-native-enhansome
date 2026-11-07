@@ -142,19 +142,19 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 > 它山之石可以攻玉。
 
-* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,864 | 🐛 1,366 | 🌐 C++ | 📅 2026-11-06：React Native官方Demo，汇集了各种组件，API的使用Examples。
+* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,870 | 🐛 1,379 | 🌐 C++ | 📅 2026-11-07：React Native官方Demo，汇集了各种组件，API的使用Examples。
 
 * [Facebook F8 App ](https://github.com/fbsamples/f8app) ⚠️ Archived：基于React Native 的2016 F8大会APP。
 
-* [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) ⭐ 5,203 | 🐛 25 | 🌐 JavaScript | 📅 2021-10-03：基于React Native的计算器，iOS/Android、Web、桌面多端。
+* [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) ⭐ 5,204 | 🐛 25 | 🌐 JavaScript | 📅 2021-10-03：基于React Native的计算器，iOS/Android、Web、桌面多端。
 
-* [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) ⭐ 3,703 | 🐛 12 | 🌐 JavaScript | 📅 2022-03-17：Hacker 新闻客户端。
+* [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) ⭐ 3,704 | 🐛 12 | 🌐 JavaScript | 📅 2022-03-17：Hacker 新闻客户端。
 
 * [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) ⭐ 3,640 | 🐛 32 | 🌐 JavaScript | 📅 2023-09-19：知乎日报Android版。
 
 * [reading](https://github.com/attentiveness/reading) ⭐ 3,403 | 🐛 15 | 🌐 JavaScript | 📅 2022-12-06：iReading App。
 
-* [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) ⭐ 2,935 | 🐛 67 | 🌐 JavaScript | 📅 2019-08-08：基于React Native的查看、阅读、收藏GitHub上 最受欢迎的开源项目的APP，不仅如此，它还是一款GitHub Trending的客户端。
+* [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) ⭐ 2,933 | 🐛 67 | 🌐 JavaScript | 📅 2019-08-08：基于React Native的查看、阅读、收藏GitHub上 最受欢迎的开源项目的APP，不仅如此，它还是一款GitHub Trending的客户端。
 
 * [react-native-nba-app](https://github.com/wwayne/react-native-nba-app) ⭐ 2,211 | 🐛 8 | 🌐 Objective-C | 📅 2019-10-20：This is why we play。
 
@@ -240,7 +240,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### 其他
 
-* [Redux](https://github.com/reactjs/redux/) ⭐ 61,441 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-20：用于JavaScript apps上的一款可预见的状态管理框架。
+* [Redux](https://github.com/reactjs/redux/) ⭐ 61,439 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-20：用于JavaScript apps上的一款可预见的状态管理框架。
 * [redux-react-native-i18n](https://github.com/derzunov/redux-react-native-i18n) ⭐ 48 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-29 An i18n solution with plural forms support for React Native apps on Redux
 * [CodePush](https://microsoft.github.io/code-push/)：CodePush 是微软提供的一套用于热更新 React Native 和 Cordova 应用的服务。
 
@@ -257,7 +257,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ## 一次学习，随处可写
 
-* [react-native-web](https://github.com/necolas/react-native-web) ⭐ 22,161 | 🐛 60 | 🌐 JavaScript | 📅 2026-11-05：使用React Native组建Web应用。
+* [react-native-web](https://github.com/necolas/react-native-web) ⭐ 22,161 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-06：使用React Native组建Web应用。
 * [react-native-macos](https://github.com/ptmt/react-native-macos) ⭐ 11,180 | 🐛 76 | 🌐 JavaScript | 📅 2024-02-13：使用React Native和Cocoa组建macOS桌面应用。
 
 ## 资源下载
@@ -268,4 +268,4 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
