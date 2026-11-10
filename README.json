@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4049,
+                "stars": 4047,
                 "topics": [
                   "react-native",
                   "react-native-doc",
@@ -49,7 +49,7 @@
                 "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4049,
+                "stars": 4047,
                 "topics": [
                   "react-native",
                   "react-native-doc",
@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-09T08:21:17Z",
-            "open_issues": 1403,
+            "last_commit": "2026-11-10T01:34:38Z",
+            "open_issues": 1405,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126883,
+            "stars": 126892,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13866,
+            "stars": 13867,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -139,7 +139,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5204,
+            "stars": 5206,
             "topics": [
               "android-app",
               "architecture",
@@ -170,7 +170,7 @@
             "open_issues": 12,
             "owner": "iSimar",
             "repo": "HackerNews-React-Native",
-            "stars": 3704,
+            "stars": 3703,
             "topics": [
               "android",
               "hacker-news",
@@ -293,7 +293,7 @@
             "open_issues": 28,
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2071,
+            "stars": 2070,
             "topics": [
               "android",
               "ios",
@@ -475,7 +475,7 @@
                 "open_issues": 14,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17928,
+                "stars": 17929,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20368,
+            "stars": 20367,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1128,7 +1128,7 @@
                 "open_issues": 17,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61440,
+                "stars": 61438,
                 "topics": [
                   "redux"
                 ]
@@ -1200,8 +1200,8 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T18:01:01Z",
-            "open_issues": 45,
+            "last_commit": "2026-11-09T16:30:08Z",
+            "open_issues": 42,
             "owner": "necolas",
             "repo": "react-native-web",
             "stars": 22163,
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T08:52:42.445Z",
+    "last_updated": "2026-11-10T08:58:55.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
