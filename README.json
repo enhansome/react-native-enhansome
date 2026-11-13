@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4047,
+                "stars": 4048,
                 "topics": [
                   "react-native",
                   "react-native-doc",
@@ -49,7 +49,7 @@
                 "open_issues": 13,
                 "owner": "crazycodeboy",
                 "repo": "RNStudyNotes",
-                "stars": 4047,
+                "stars": 4048,
                 "topics": [
                   "react-native",
                   "react-native-doc",
@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-11T21:30:08Z",
-            "open_issues": 1403,
+            "last_commit": "2026-11-12T20:44:31Z",
+            "open_issues": 1409,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126902,
+            "stars": 126908,
             "topics": [
               "android",
               "app-framework",
@@ -879,7 +879,7 @@
                 "open_issues": 26,
                 "owner": "jeanregisser",
                 "repo": "react-native-popover",
-                "stars": 674,
+                "stars": 675,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -983,7 +983,7 @@
                 "open_issues": 165,
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6941,
+                "stars": 6940,
                 "topics": [
                   "animated",
                   "react-native",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20368,
+            "stars": 20369,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1128,7 +1128,7 @@
                 "open_issues": 17,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61440,
+                "stars": 61438,
                 "topics": [
                   "redux"
                 ]
@@ -1201,10 +1201,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-11T14:36:52Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22162,
+            "stars": 22161,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T08:58:58.341Z",
+    "last_updated": "2026-11-13T08:54:59.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
