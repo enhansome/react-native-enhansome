@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-13T19:37:38Z",
-            "open_issues": 1408,
+            "last_commit": "2026-11-15T02:37:01Z",
+            "open_issues": 1402,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126919,
+            "stars": 126929,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13869,
+            "stars": 13868,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -216,7 +216,7 @@
             "open_issues": 15,
             "owner": "attentiveness",
             "repo": "reading",
-            "stars": 3403,
+            "stars": 3402,
             "topics": [
               "android",
               "ios",
@@ -320,7 +320,7 @@
             "open_issues": 20,
             "owner": "catalinmiron",
             "repo": "react-native-dribbble-app",
-            "stars": 2056,
+            "stars": 2057,
             "topics": [
               "dribbble",
               "ios",
@@ -475,7 +475,7 @@
                 "open_issues": 14,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17930,
+                "stars": 17931,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -1124,11 +1124,11 @@
                 "id": 36535156,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-11T21:16:56Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-14T20:25:06Z",
+                "open_issues": 17,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61436,
+                "stars": 61437,
                 "topics": [
                   "redux"
                 ]
@@ -1201,7 +1201,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-11T14:36:52Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "necolas",
             "repo": "react-native-web",
             "stars": 22159,
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T08:19:58.252Z",
+    "last_updated": "2026-11-15T08:38:29.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
