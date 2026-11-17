@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-15T16:05:06Z",
-            "open_issues": 1408,
+            "last_commit": "2026-11-17T08:49:53Z",
+            "open_issues": 1425,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126931,
+            "stars": 126941,
             "topics": [
               "android",
               "app-framework",
@@ -139,7 +139,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5206,
+            "stars": 5207,
             "topics": [
               "android-app",
               "architecture",
@@ -293,7 +293,7 @@
             "open_issues": 28,
             "owner": "7kfpun",
             "repo": "FinanceReactNative",
-            "stars": 2070,
+            "stars": 2069,
             "topics": [
               "android",
               "ios",
@@ -853,7 +853,7 @@
                 "open_issues": 83,
                 "owner": "crazycodeboy",
                 "repo": "react-native-easy-toast",
-                "stars": 1145,
+                "stars": 1146,
                 "topics": [
                   "react-native",
                   "react-native-toast",
@@ -1200,11 +1200,11 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T14:36:52Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-17T09:32:05Z",
+            "open_issues": 44,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22159,
+            "stars": 22160,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1235,7 +1235,7 @@
             "open_issues": 76,
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11181,
+            "stars": 11182,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:47:18.003Z",
+    "last_updated": "2026-11-17T09:54:33.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",

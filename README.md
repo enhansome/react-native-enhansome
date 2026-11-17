@@ -1,6 +1,6 @@
 # Awesome React Native 学习资源精选仓库(汇聚知识，分享精华) with stars
 
-[![](https://jaywcjlove.github.io/sb/ico/awesome.svg)](#目录) [![](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/crazycodeboy/react-native-awesome) [![](https://jaywcjlove.github.io/sb/lang/english.svg)](https://github.com/jondot/awesome-react-native) ⭐ 35,707 | 🐛 53 | 📅 2026-08-26
+[![](https://jaywcjlove.github.io/sb/ico/awesome.svg)](#目录) [![](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/crazycodeboy/react-native-awesome) [![](https://jaywcjlove.github.io/sb/lang/english.svg)](https://github.com/jondot/awesome-react-native) ⭐ 35,712 | 🐛 53 | 📅 2026-08-26
 
 React Native Awesome 汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。
 
@@ -142,11 +142,11 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 > 它山之石可以攻玉。
 
-* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,931 | 🐛 1,408 | 🌐 C++ | 📅 2026-11-15：React Native官方Demo，汇集了各种组件，API的使用Examples。
+* [React Native官方Demo](https://github.com/facebook/react-native/tree/master/Examples) ⭐ 126,941 | 🐛 1,425 | 🌐 C++ | 📅 2026-11-17：React Native官方Demo，汇集了各种组件，API的使用Examples。
 
 * [Facebook F8 App ](https://github.com/fbsamples/f8app) ⚠️ Archived：基于React Native 的2016 F8大会APP。
 
-* [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) ⭐ 5,206 | 🐛 25 | 🌐 JavaScript | 📅 2021-10-03：基于React Native的计算器，iOS/Android、Web、桌面多端。
+* [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) ⭐ 5,207 | 🐛 25 | 🌐 JavaScript | 📅 2021-10-03：基于React Native的计算器，iOS/Android、Web、桌面多端。
 
 * [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) ⭐ 3,703 | 🐛 12 | 🌐 JavaScript | 📅 2022-03-17：Hacker 新闻客户端。
 
@@ -158,7 +158,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 * [react-native-nba-app](https://github.com/wwayne/react-native-nba-app) ⭐ 2,211 | 🐛 8 | 🌐 Objective-C | 📅 2019-10-20：This is why we play。
 
-* [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) ⭐ 2,070 | 🐛 28 | 🌐 JavaScript | 📅 2022-12-06：Finance - 股票报价app。
+* [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) ⭐ 2,069 | 🐛 28 | 🌐 JavaScript | 📅 2022-12-06：Finance - 股票报价app。
 
 * [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app) ⭐ 2,057 | 🐛 20 | 🌐 JavaScript | 📅 2023-10-13：基于React Native的Dribbble客户端。
 
@@ -208,7 +208,7 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ### 弹框
 
-* [react-native-easy-toast](https://github.com/crazycodeboy/react-native-easy-toast) ⭐ 1,145 | 🐛 83 | 🌐 JavaScript | 📅 2024-04-25：一款用于React Native上消息提示弹框组件，使用方便，支持定义Toast，支持iOS,Android。
+* [react-native-easy-toast](https://github.com/crazycodeboy/react-native-easy-toast) ⭐ 1,146 | 🐛 83 | 🌐 JavaScript | 📅 2024-04-25：一款用于React Native上消息提示弹框组件，使用方便，支持定义Toast，支持iOS,Android。
 * [react-native-popover](https://github.com/jeanregisser/react-native-popover) ⭐ 675 | 🐛 26 | 🌐 JavaScript | 📅 2019-04-23：一款类似Android popupwindow的弹出框组件。
 * [react-native-modal](https://github.com/brentvatne/react-native-modal) ⚠️ Archived：模态框，作者已经将该组件添加到React Native，所以开发者可以直接使用[Modal](https://facebook.github.io/react-native/releases/0.31/docs/modal.html);
 
@@ -257,8 +257,8 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ## 一次学习，随处可写
 
-* [react-native-web](https://github.com/necolas/react-native-web) ⭐ 22,159 | 🐛 43 | 🌐 JavaScript | 📅 2026-11-11：使用React Native组建Web应用。
-* [react-native-macos](https://github.com/ptmt/react-native-macos) ⭐ 11,181 | 🐛 76 | 🌐 JavaScript | 📅 2024-02-13：使用React Native和Cocoa组建macOS桌面应用。
+* [react-native-web](https://github.com/necolas/react-native-web) ⭐ 22,160 | 🐛 44 | 🌐 JavaScript | 📅 2026-11-17：使用React Native组建Web应用。
+* [react-native-macos](https://github.com/ptmt/react-native-macos) ⭐ 11,182 | 🐛 76 | 🌐 JavaScript | 📅 2024-02-13：使用React Native和Cocoa组建macOS桌面应用。
 
 ## 资源下载
 
@@ -268,4 +268,4 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
