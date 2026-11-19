@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-18T09:23:07Z",
-            "open_issues": 1414,
+            "last_commit": "2026-11-19T05:22:18Z",
+            "open_issues": 1431,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126951,
+            "stars": 126960,
             "topics": [
               "android",
               "app-framework",
@@ -706,7 +706,7 @@
                 "open_issues": 108,
                 "owner": "dancormier",
                 "repo": "react-native-swipeout",
-                "stars": 2602,
+                "stars": 2601,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -983,7 +983,7 @@
                 "open_issues": 165,
                 "owner": "ptomasroos",
                 "repo": "react-native-scrollable-tab-view",
-                "stars": 6940,
+                "stars": 6939,
                 "topics": [
                   "animated",
                   "react-native",
@@ -1128,7 +1128,7 @@
                 "open_issues": 17,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61434,
+                "stars": 61435,
                 "topics": [
                   "redux"
                 ]
@@ -1200,11 +1200,11 @@
             "id": 37153337,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T13:56:41Z",
+            "last_commit": "2026-11-18T16:04:29Z",
             "open_issues": 45,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22162,
+            "stars": 22163,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1235,7 +1235,7 @@
             "open_issues": 76,
             "owner": "ptmt",
             "repo": "react-native-macos",
-            "stars": 11183,
+            "stars": 11182,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T09:29:45.693Z",
+    "last_updated": "2026-11-19T09:40:26.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
