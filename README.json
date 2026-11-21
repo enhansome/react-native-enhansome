@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-19T21:47:29Z",
-            "open_issues": 1444,
+            "last_commit": "2026-11-21T05:36:29Z",
+            "open_issues": 1454,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126974,
+            "stars": 126984,
             "topics": [
               "android",
               "app-framework",
@@ -139,7 +139,7 @@
             "open_issues": 25,
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5206,
+            "stars": 5207,
             "topics": [
               "android-app",
               "architecture",
@@ -928,7 +928,7 @@
                 "open_issues": 86,
                 "owner": "invertase",
                 "repo": "react-native-material-design",
-                "stars": 3121,
+                "stars": 3120,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20368,
+            "stars": 20367,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1128,7 +1128,7 @@
                 "open_issues": 17,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61439,
+                "stars": 61440,
                 "topics": [
                   "redux"
                 ]
@@ -1198,9 +1198,9 @@
             "description": "Cross-platform React UI packages",
             "homepage": "https://necolas.github.io/react-native-web",
             "id": 37153337,
-            "language": "JavaScript",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T19:25:53Z",
+            "last_commit": "2026-11-20T15:51:19Z",
             "open_issues": 45,
             "owner": "necolas",
             "repo": "react-native-web",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T09:27:20.746Z",
+    "last_updated": "2026-11-21T08:58:59.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
