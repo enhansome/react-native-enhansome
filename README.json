@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-22T00:35:35Z",
-            "open_issues": 1457,
+            "last_commit": "2026-11-23T09:35:43Z",
+            "open_issues": 1463,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126994,
+            "stars": 126999,
             "topics": [
               "android",
               "app-framework",
@@ -475,7 +475,7 @@
                 "open_issues": 14,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17932,
+                "stars": 17933,
                 "topics": [
                   "icon",
                   "icon-pack",
@@ -620,7 +620,7 @@
                 "open_issues": 779,
                 "owner": "leecade",
                 "repo": "react-native-swiper",
-                "stars": 10474,
+                "stars": 10473,
                 "topics": [
                   "react",
                   "react-native",
@@ -818,7 +818,7 @@
                 "open_issues": 144,
                 "owner": "jsdf",
                 "repo": "react-native-htmlview",
-                "stars": 2742,
+                "stars": 2741,
                 "topics": [
                   "html",
                   "html-parser",
@@ -1020,7 +1020,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20367,
+            "stars": 20366,
             "topics": [
               "android",
               "hacktoberfest",
@@ -1128,7 +1128,7 @@
                 "open_issues": 17,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61438,
+                "stars": 61437,
                 "topics": [
                   "redux"
                 ]
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T09:05:24.957Z",
+    "last_updated": "2026-11-23T10:00:10.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
