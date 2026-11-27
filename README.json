@@ -84,11 +84,11 @@
             "id": 29028775,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-26T09:01:40Z",
-            "open_issues": 1476,
+            "last_commit": "2026-11-26T21:38:57Z",
+            "open_issues": 1474,
             "owner": "react",
             "repo": "react-native",
-            "stars": 127009,
+            "stars": 127015,
             "topics": [
               "android",
               "app-framework",
@@ -118,7 +118,7 @@
             "open_issues": 45,
             "owner": "fbsamples",
             "repo": "f8app",
-            "stars": 13866,
+            "stars": 13864,
             "topics": []
           },
           "first_seen": "2026-08-28T13:35:01.284Z"
@@ -244,7 +244,7 @@
             "open_issues": 67,
             "owner": "crazycodeboy",
             "repo": "GitHubPopular",
-            "stars": 2933,
+            "stars": 2932,
             "topics": [
               "github-app",
               "github-client",
@@ -928,7 +928,7 @@
                 "open_issues": 86,
                 "owner": "invertase",
                 "repo": "react-native-material-design",
-                "stars": 3119,
+                "stars": 3118,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:01.284Z"
@@ -1128,7 +1128,7 @@
                 "open_issues": 17,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61425,
+                "stars": 61423,
                 "topics": [
                   "redux"
                 ]
@@ -1200,11 +1200,11 @@
             "id": 37153337,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T20:17:39Z",
-            "open_issues": 46,
+            "last_commit": "2026-11-27T09:54:05Z",
+            "open_issues": 44,
             "owner": "necolas",
             "repo": "react-native-web",
-            "stars": 22160,
+            "stars": 22161,
             "topics": [
               "cross-platform",
               "css-in-js",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T10:13:39.059Z",
+    "last_updated": "2026-11-27T10:19:28.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。",
@@ -1254,7 +1254,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2019-12-06T04:03:32Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "crazycodeboy",
       "repo": "react-native-awesome",
       "stars": 1815,
